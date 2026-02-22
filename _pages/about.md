@@ -3,7 +3,12 @@ layout: single
 title: "International Data Science Challenge 2026"
 permalink: /
 author_profile: false
+header:
+  overlay_color: "#333333" # A sleek dark gray background
+  overlay_filter: "0.5"
 ---
+
+<img src="/images/idsc-poster.png" alt="IDSC 2026 Official Poster" style="width:100%; max-width:800px; display:block; margin: 0 auto 30px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 Welcome to the official portal for the **International Data Science Challenge (IDSC) 2026**! 
 
