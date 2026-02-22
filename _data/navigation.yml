@@ -8,5 +8,7 @@ main:
     url: /datasets/
   - title: "Committee"
     url: /committee/
+  - title: "Workshops"
+    url: /workshops/
   - title: "Registration"
     url: /registration/
