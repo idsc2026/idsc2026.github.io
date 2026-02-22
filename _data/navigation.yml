@@ -6,9 +6,9 @@ main:
     url: /rules/
   - title: "Datasets"
     url: /datasets/
-  - title: "Committee"
-    url: /committee/
   - title: "Workshops"
     url: /workshops/
+  - title: "Committee"
+    url: /committee/
   - title: "Registration"
     url: /registration/
