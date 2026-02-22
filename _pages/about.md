@@ -4,8 +4,8 @@ title: "International Data Science Challenge 2026"
 permalink: /
 author_profile: false
 header:
-  overlay_color: "#333333" # A sleek dark gray background
-  overlay_filter: "0.5"
+  overlay_image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+  overlay_filter: "rgba(43, 24, 84, 0.75)" # A sleek, modern deep purple overlay
 ---
 
 <img src="/images/idsc-poster.png" alt="IDSC 2026 Official Poster" style="width:100%; max-width:800px; display:block; margin: 0 auto 30px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
