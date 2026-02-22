@@ -18,7 +18,7 @@ Whether you need to fine-tune your machine learning models or learn how to pitch
     <hr style="border-color: rgba(0, 201, 255, 0.2); margin: 20px 0;">
     
     <div style="text-align: center; margin-bottom: 15px;">
-      <img src="/images/shukor.jpg" alt="Dr. Shukor" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+      <img src="/images/shukor.png" alt="Dr. Shukor" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
     </div>
     
     <p style="margin-bottom: 5px; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px; font-weight: bold; color: #00C9FF; text-align: center;">Featured Speaker</p>
