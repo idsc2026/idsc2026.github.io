@@ -3,7 +3,7 @@ layout: archive
 title: "Meet the Team 🤝"
 permalink: /committee/
 author_profile: false
---- 
+---
 
 The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
 
@@ -11,6 +11,27 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 * **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)**
 * **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)**
 * **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)**
+
+---
+
+### 🎓 Advisory Board
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  
+  <div style="flex: 1 1 300px; background: rgba(255, 183, 3, 0.05); border: 1px solid rgba(255, 183, 3, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 183, 3, 0.05); text-align: center; border-top: 4px solid #FFB703;">
+    <img src="/images/norihan.jpg" alt="Prof. Norihan" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FFB703; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Prof. Dr. Norihan Md Arifin</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d49a00;">Event Advisor</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  </div>
+
+  <div style="flex: 1 1 300px; background: rgba(255, 183, 3, 0.05); border: 1px solid rgba(255, 183, 3, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 183, 3, 0.05); text-align: center; border-top: 4px solid #FFB703;">
+    <img src="/images/wahjune.jpg" alt="Prof. Leong" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FFB703; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Prof. Dr. Leong Wah June</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d49a00;">Event Advisor</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  </div>
+
+</div>
 
 ---
 
