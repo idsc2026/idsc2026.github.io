@@ -6,5 +6,7 @@ main:
     url: /rules/
   - title: "Datasets"
     url: /datasets/
+  - title: "Committee"
+    url: /committee/
   - title: "Registration"
     url: /registration/
