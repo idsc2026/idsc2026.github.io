@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: single
 title: "International Data Science Challenge 2026"
-excerpt: "Mathematics for Hope in Healthcare"
+permalink: /
 author_profile: false
-redirect_from:
-  - /home/
-  - /index.html
 ---
 
 Welcome to the official portal for the **International Data Science Challenge (IDSC) 2026**! 
@@ -47,6 +44,6 @@ A total prize pool of **RM 1,000.00** awaits the top performing teams, alongside
 ---
 
 ### Ready to Join?
-*(Add your registration link or instructions here, e.g., [Click here to register your team!](YOUR_LINK_HERE))*
+**[👉 Click here to register your team!]({INSERT_YOUR_REGISTRATION_LINK_HERE})**
 
-For detailed information regarding datasets, evaluation criteria, and submission formats, please refer to the **Guidelines & Rules** tab.
+For detailed information regarding datasets, evaluation criteria, and submission formats, please refer to the Guidelines & Rules tab at the top of the page.
