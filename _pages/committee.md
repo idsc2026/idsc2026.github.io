@@ -3,7 +3,7 @@ layout: archive
 title: "Meet the Team 🤝"
 permalink: /committee/
 author_profile: false
----
+--- 
 
 The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
 
