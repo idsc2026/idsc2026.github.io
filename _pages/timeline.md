@@ -5,67 +5,88 @@ permalink: /timeline/
 author_profile: false
 ---
 
-Stay on track! From the initial launch to the high-stakes Grand Final, here is the detailed breakdown of the **IDSC 2026** journey. 
+This isn't just a schedule; it’s your mission log. From the first spark of an idea to the high-stakes global stage, here is how you’ll navigate the **IDSC 2026** journey. Lock in these dates—no pressure, but the world is watching! 🌍✨
 
 
 
 ---
 
-### 🚀 Phase 1: Registration & Kickoff
-The journey begins. Assemble your squad and get your strategy ready.
+### 🚀 Phase 1: The Ignition (Registration)
+*Assemble your squad, pick your challenge, and get ready to launch.*
 
-* **25 February 2026: Official Launch & Registration Opens**
-    * Website goes live and team registration begins.
-    * Datasets become officially available for exploration.
-* **10 March 2026: Registration Deadline**
-    * All teams must be registered by 11:59 PM (GMT+8).
-    * Last day to finalize team members.
-
----
-
-### 🧠 Phase 2: Upskilling & Development
-Level up your skills and start building your solution.
-
-* **14 March 2026: International Mathematics Day & Workshops**
-    * **Morning Session:** *Data Science & ML Workshop* by Assoc. Prof. Ts. Dr. Shukor Sanim Mohd Fauzi (UiTM).
-    * **Afternoon Session:** *Presentation Skills Workshop* by Dr. Ghazila Binti Ghazi (UPM).
-    * Technical briefing on using the **Health Gym** datasets.
+<div style="background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); border-left: 6px solid #00C9FF; padding: 20px; border-radius: 10px; margin-bottom: 25px;">
+  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
+    <li style="margin-bottom: 15px;">💎 <strong>25 February 2026: Official Launch</strong>
+      <br><span style="font-size: 0.9em; opacity: 0.8;">The portal opens! Team registration begins and the Health Gym datasets are ready for exploration.</span>
+    </li>
+    <li>🛑 <strong>10 March 2026: Registration Deadline</strong>
+      <br><span style="font-size: 0.9em; opacity: 0.8;">The last call! All teams must be finalized by 11:59 PM (GMT+8). Don't get left at the starting line.</span>
+    </li>
+  </ul>
+</div>
 
 ---
 
-### 📤 Phase 3: The Submission Sprint
-The most intense part of the challenge. Finish your code and polish your pitch.
+### 🧠 Phase 2: Power Up (Workshops)
+*Sharpen your tools and learn from the best in the business.*
 
-* **25 March 2026: Stage 1 Deadline (The Big Drop)**
-    * **Technical Report:** Max 5 pages detailing your RL/ML methodology and clinical findings.
-    * **Video Pitch:** 3-minute video summarizing your project's "Hope in Healthcare" impact.
-    * **Code Submission:** Link your reproducible GitHub/GitLab repository.
-
----
-
-### ⚖️ Phase 4: Judging & Selection
-The experts take over to find the best of the best.
-
-* **26 March – 01 April 2026: Preliminary Judging**
-    * Joint panel from UPM, UNAIR, and UNMUL reviews all Stage 1 submissions.
-    * Scoring based on algorithmic rigor, innovation, and clinical safety.
-* **02 April 2026: Top 5 Finalists Announcement**
-    * The 5 elite teams are officially announced via the website and email.
-    * Finalists receive briefing for the Grand Final live presentation.
+<div style="background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); border-left: 6px solid #9B5DE5; padding: 20px; border-radius: 10px; margin-bottom: 25px;">
+  <p><strong>14 March 2026: Intl. Mathematics Day & Skills Sprints</strong></p>
+  <ul style="font-size: 0.9em; opacity: 0.9;">
+    <li>⚡ <strong>AM Session:</strong> <em>Data Science & ML Workshop</em> with Assoc. Prof. Ts. Dr. Shukor Sanim Mohd Fauzi (UiTM).</li>
+    <li>🎙️ <strong>PM Session:</strong> <em>Presentation Skills Workshop</em> with Dr. Ghazila Binti Ghazi (UPM).</li>
+    <li>🛠️ <strong>Plus:</strong> A deep-dive technical briefing on the Health Gym synthetic datasets.</li>
+  </ul>
+</div>
 
 ---
 
-### 🏆 Phase 5: The Grand Final
-The final showdown to crown the IDSC 2026 Champions.
+### 📤 Phase 3: The Big Drop (Submission)
+*It’s crunch time. Polish your code and record your winning pitch.*
 
-* **11 April 2026: Stage 2: Grand Final & Closing Ceremony**
-    * **Live Presentations:** Top 5 teams pitch live to a panel of international judges.
-    * **Q&A Session:** 5 minutes of high-pressure questioning from industry experts.
-    * **Winner Announcement:** The Champion, Runners-up, and Consolation winners are crowned.
-    * **Closing Ceremony:** Celebrating International Mathematics Day and the regional collaboration of UPM, UNAIR, and UNMUL.
+<div style="background: rgba(255, 107, 107, 0.05); border: 1px solid rgba(255, 107, 107, 0.2); border-left: 6px solid #FF6B6B; padding: 20px; border-radius: 10px; margin-bottom: 25px;">
+  <p><strong>25 March 2026: Stage 1 Deadline</strong></p>
+  <p style="font-size: 0.9em; margin-bottom: 5px;">Submit your mission-critical files via the official portal:</p>
+  <ul style="font-size: 0.85em; opacity: 0.9;">
+    <li>📄 <strong>Tech Report:</strong> Your RL/ML methodology and healthcare insights (Max 5 pages).</li>
+    <li>🎥 <strong>Video Pitch:</strong> A 3-minute summary of your "Hope in Healthcare" solution.</li>
+    <li>💻 <strong>Code:</strong> Link your reproducible GitHub/GitLab repository.</li>
+  </ul>
+</div>
+
+---
+
+### ⚖️ Phase 4: The Filter (Judging)
+*While you rest, the experts hunt for the elite.*
+
+<div style="background: rgba(255, 213, 79, 0.05); border: 1px solid rgba(255, 213, 79, 0.2); border-left: 6px solid #FFD54F; padding: 20px; border-radius: 10px; margin-bottom: 25px;">
+  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
+    <li style="margin-bottom: 15px;">🔍 <strong>26 Mar – 01 Apr: Preliminary Judging</strong>
+      <br><span style="font-size: 0.9em; opacity: 0.8;">The joint UPM, UNAIR, and UNMUL panel hunts for innovation and clinical rigor.</span>
+    </li>
+    <li>📣 <strong>02 April 2026: Finalists Unveiled</strong>
+      <br><span style="font-size: 0.9em; opacity: 0.8;">The Top 5 elite teams are announced! Finalists move on to the high-stakes live briefing.</span>
+    </li>
+  </ul>
+</div>
+
+---
+
+### 🏆 Phase 5: The Showdown (Grand Final)
+*Battle for glory and prove your model can change the world.*
+
+<div style="background: linear-gradient(90deg, rgba(0, 201, 255, 0.1) 0%, rgba(146, 254, 157, 0.1) 100%); border: 1px solid rgba(0, 201, 255, 0.3); border-left: 6px solid #00C9FF; padding: 25px; border-radius: 10px; margin-bottom: 25px;">
+  <p><strong>11 April 2026: Grand Final & Celebration</strong></p>
+  <ul style="font-size: 0.95em; opacity: 0.9;">
+    <li>🎤 <strong>Live Pitches:</strong> The Top 5 teams face our international judging panel.</li>
+    <li>❓ <strong>Live Q&A:</strong> 5 minutes of intense questioning from industry experts.</li>
+    <li>🥇 <strong>The Reveal:</strong> We crown the Champions, Runners-up, and Consolation winners.</li>
+    <li>🤝 <strong>Closing:</strong> Celebrating math, hope, and regional unity!.</li>
+  </ul>
+</div>
 
 ---
 
 <div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.2); border-left: 6px solid #00C9FF; padding: 20px; border-radius: 10px; margin-top: 30px; text-align: center;">
-  <p style="margin: 0; font-weight: bold;">⚡ Ready to make your mark? <a href="/registration/" style="color: #00C9FF; text-decoration: underline;">Head to Registration</a> to start your journey!</p>
+  <p style="margin: 0; font-weight: bold;">🔥 Every second counts. <a href="/registration/" style="color: #00C9FF; text-decoration: underline;">Secure your spot</a> and start building today!</p>
 </div>
