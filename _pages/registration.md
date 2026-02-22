@@ -28,4 +28,4 @@ We invite students from across the globe to join the **International Data Scienc
 Once registered, your team lead will receive a confirmation email containing details on how to access the official submission portal for your Technical Report, Video Pitch, and Code Repository.
 
 ### Need Help?
-If you have any questions regarding team formation or the registration process, please contact the organizing committee at **[your-event-email@example.com]**.
+If you have any questions regarding team formation or the registration process, please contact the organizing committee at **idsc2026.general@gmail.com**.
