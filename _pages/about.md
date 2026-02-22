@@ -11,7 +11,7 @@ header:
 <img src="/images/idsc-poster.png" alt="IDSC 2026 Official Poster" style="width:100%; max-width:800px; display:block; margin: 0 auto 30px auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
 
 <div style="text-align: center; margin-bottom: 3em;">
-  <h2 style="color: #4a148c; font-weight: bold;">Are you ready to hack the future of healthcare? 🏥✨</h2>
+  <h2 style="font-weight: bold;">Are you ready to hack the future of healthcare? 🏥✨</h2>
   <p style="font-size: 1.2em; line-height: 1.6;">Welcome to the ultimate data showdown! Hosted by <strong>UPM (Malaysia)</strong>, <strong>UNAIR (Indonesia)</strong>, and <strong>UNMUL (Indonesia)</strong>, this fully online challenge is your chance to prove that math and code can truly change the world.</p>
 </div>
 
@@ -24,7 +24,7 @@ Step into the shoes of an AI clinician! 🩺
 * **The Mission:** Develop algorithms that recommend the ultimate treatment sequences, dosages, and timings.
 * **The Impact:** Flex your analytical skills, collaborate across borders, and prove that ethical AI can revolutionize patient care.
 
-<div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-left: 6px solid #00C9FF; padding: 25px; border-radius: 10px; margin: 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+<div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.2); border-left: 6px solid #00C9FF; padding: 25px; border-radius: 10px; margin: 30px 0; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.1);">
   <h3 style="margin-top: 0;">🏆 The Prize Pool (RM 1,000.00 Total!)</h3>
   <p>Bring your A-game, pitch your solution, and take home the glory (plus an E-Certificate for every competitor):</p>
   <ul style="list-style-type: none; padding-left: 0; font-size: 1.1em;">
