@@ -12,8 +12,60 @@ header:
 
 <div style="text-align: center; margin-bottom: 3em;">
   <h2 style="font-weight: bold;">Are you ready to hack the future of healthcare? 🏥✨</h2>
-  <p style="font-size: 1.2em; line-height: 1.6;">Welcome to the ultimate data showdown! Hosted by <strong>UPM (Malaysia)</strong>, <strong>UNAIR (Indonesia)</strong>, and <strong>UNMUL (Indonesia)</strong>, this fully online challenge is your chance to prove that math and code can truly change the world.</p>
+  <p style="font-size: 1.2em; line-height: 1.6;">
+    Welcome to the ultimate data showdown! Hosted by <strong>Universiti Putra Malaysia (UPM)</strong>, in partnership with <strong>Universitas Airlangga (UNAIR)</strong> and <strong>Universitas Mulawarman (UNMUL)</strong>, this fully online challenge is your chance to prove that math and code can truly change the world.
+  </p>
 </div>
+
+<div id="idsc-countdown-container" style="margin: 40px 0; text-align: center; font-family: 'Inter', sans-serif;">
+  <p style="text-transform: uppercase; letter-spacing: 2px; font-weight: bold; margin-bottom: 15px; font-size: 0.9em; opacity: 0.8;">
+    ⏳ Registration Deadline: 10 March 2026
+  </p>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.3); padding: 15px; border-radius: 12px; min-width: 80px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.1);">
+      <span id="days" style="display: block; font-size: 2.5em; font-weight: 900; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">00</span>
+      <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.7;">Days</span>
+    </div>
+    <div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.3); padding: 15px; border-radius: 12px; min-width: 80px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.1);">
+      <span id="hours" style="display: block; font-size: 2.5em; font-weight: 900; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">00</span>
+      <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.7;">Hours</span>
+    </div>
+    <div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.3); padding: 15px; border-radius: 12px; min-width: 80px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.1);">
+      <span id="minutes" style="display: block; font-size: 2.5em; font-weight: 900; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">00</span>
+      <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.7;">Mins</span>
+    </div>
+    <div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.3); padding: 15px; border-radius: 12px; min-width: 80px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.1);">
+      <span id="seconds" style="display: block; font-size: 2.5em; font-weight: 900; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">00</span>
+      <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.7;">Secs</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Set the target: 10 March 2026, 23:59:59 (GMT+8)
+  const countDownDate = new Date("March 10, 2026 23:59:59").getTime();
+
+  const x = setInterval(function() {
+    const now = new Date().getTime();
+    const distance = countDownDate - now;
+
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    document.getElementById("days").innerHTML = days.toString().padStart(2, '0');
+    document.getElementById("hours").innerHTML = hours.toString().padStart(2, '0');
+    document.getElementById("minutes").innerHTML = minutes.toString().padStart(2, '0');
+    document.getElementById("seconds").innerHTML = seconds.toString().padStart(2, '0');
+
+    if (distance < 0) {
+      clearInterval(x);
+      document.getElementById("idsc-countdown-container").innerHTML = "<h3 style='color: #FF6B6B;'>🚀 Registration Closed! See you in the competition!</h3>";
+    }
+  }, 1000);
+</script>
 
 ### 🎯 The Vibe: Mathematics & Hope
 We believe math isn't just about numbers—it's about finding hope in the data. Your mission? **Mathematics for Hope in Healthcare**. You will tackle real-world clinical dilemmas using cutting-edge reinforcement learning, machine learning, and advanced statistical modeling to optimize personalized treatments for conditions like sepsis and HIV. 
