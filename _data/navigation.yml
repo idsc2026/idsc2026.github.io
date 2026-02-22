@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Timeline"
+    url: /timeline/
   - title: "Guidelines & Rules"
     url: /rules/
   - title: "Datasets"
