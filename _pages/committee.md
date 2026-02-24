@@ -5,12 +5,12 @@ permalink: /committee/
 author_profile: false
 ---
 
-The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
+The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration[cite: 76, 78]. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience! [cite: 1, 3]
 
 ### 🏛️ Organizing Institutions
-* **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)**
-* **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)**
-* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)**
+* **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)** [cite: 65, 66]
+* **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)** [cite: 67, 68]
+* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)** [cite: 69, 70]
 
 ---
 
@@ -35,7 +35,7 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ---
 
-### 🚀 Core Leadership
+### 🚀 Core Leadership 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
   
@@ -78,13 +78,61 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ---
 
-### 💡 Student Organizing Taskforce
-This event wouldn't be possible without our brilliant student volunteers managing the day-to-day operations!
+### 💡 Student Organizing Taskforce 
+This event wouldn't be possible without our brilliant student volunteers managing the day-to-day operations! [cite: 1]
 
-* **Secretariat & Participant Management:** 2 Students
-* **Technical & Submission Team:** 2 Students
-* **IT & Live Session Support:** 2 Students
-* **Publicity & Design:** 2 Students
-* **Finance & Administration:** 2 Students
+#### 🛠️ Technical & Submission Team 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/aleeya.png" alt="Aleeya" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #00C9FF;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Aleeya Natasya Binti Azahar</p>
+  </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/nuratika.png" alt="Nuratika" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #00C9FF;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Nuratika Binti Anuar</p>
+  </div>
+</div>
 
-*(Note to organizing committee: As student leaders are finalized, their names can be updated here!)*
+#### 📂 Secretariat & Participant Management 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/sametha.png" alt="Sametha" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Sametha Sivalingam</p>
+  </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/ayuni.png" alt="Ayuni" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Nurul Ayuni Binti Omar</p>
+  </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/francis.png" alt="Francis" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Francis Lim Beng Cong</p>
+  </div>
+</div>
+
+#### 🎨 Publicity & Design 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/shahrul.png" alt="Shahrul" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Mohamad Shahrul Ikram</p>
+  </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/thurgashini.png" alt="Thurgashini" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Thurgashini A/P Gunalan</p>
+  </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/edlina.png" alt="Edlina" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Nurul Edlina Binti Shazwan</p>
+  </div>
+</div>
+
+#### 💰 Finance & Administration 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/puviniyaraj.png" alt="Puviniyaraj" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FF6B6B;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Puviniyaraj A/P S.Rajendran</p>
+  </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/huiyin.png" alt="Hui Yin" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FF6B6B;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Cheah Hui Yin</p>
+  </div>
+</div>
