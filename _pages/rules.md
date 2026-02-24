@@ -44,9 +44,9 @@ Wondering how the judges will score your project? Here is the exact breakdown of
 
 | Criterion | Weight (%) |
 | :--- | :---: |
-| 🧠 **Problem Definition & Healthcare Relevance** | 15 |
 | 🧮 **Mathematical/Algorithmic Rigor** | 25 |
 | 📈 **Model Performance & Validation** | 20 |
+| 🧠 **Problem Definition & Healthcare Relevance** | 15 |
 | 💡 **Innovation & Creativity** | 15 |
 | 🛡️ **Clinical Interpretability & Safety** | 10 |
 | 🌟 **"Hope" Impact & Practical Implications** | 10 |
@@ -61,16 +61,19 @@ Play fair and code hard. Ensure your team follows these regulations to avoid dis
 
 1. 🚫 **No Plagiarism:** Your project must be 100% original work created specifically for this challenge.
 2. 📂 **Strict Dataset Compliance:** You *must* exclusively use one (or more) of the official datasets from the [PhysioNet](https://physionet.org/) list provided (bigP3BCI, Brugada-HUCA, Myocardial Perfusion SPECT, or HYGD). External labeled datasets are strictly not permitted.
-3. 📚 **Cite Your Sources (REQUIRED):** All submissions must properly cite the specific dataset(s) used (using the official text on each dataset's page) **AND** include the standard PhysioNet platform citation.
-4. 🤖 **Ethical AI Only:** Your models need to adhere to strict ethical principles:
+3. 🤖 **Ethical AI Only:** Your models need to adhere to strict ethical principles:
    * Prioritize model interpretability and explainability (e.g., saliency maps, feature importance).
    * Include safety validations and consider potential harms.
    * Include an honest discussion of your model's limitations, data leakage prevention, and failure modes.
    * Plan for responsible deployment.
-5. 🔓 **Open Source (Encouraged):** While optional, we highly encourage sharing your code for transparency and reproducibility.
-6. ⏰ **No Late Submissions:** The Stage 1 deadline is absolute. Submissions received after the cutoff will not be reviewed.
-7. 🧑‍⚖️ **Judges' Word is Final:** The decision of the judging panel cannot be contested.
-8. 🤝 **Squad Loyalty:** Your team composition must remain exactly the same from registration through the finals.
+4. 🔓 **Open Source (Encouraged):** While optional, we highly encourage sharing your code for transparency and reproducibility.
+5. ⏰ **No Late Submissions:** The Stage 1 deadline is absolute. Submissions received after the cutoff will not be reviewed.
+6. 🧑‍⚖️ **Judges' Word is Final:** The decision of the judging panel cannot be contested.
+7. 🤝 **Squad Loyalty:** Your team composition must remain exactly the same from registration through the finals.
+
+<div style="background: rgba(255, 213, 79, 0.1); border-left: 5px solid #FFD54F; padding: 15px; border-radius: 8px; margin-top: 20px;">
+  <strong>📚 Mandatory Citation Rule:</strong> All submissions must properly cite the specific dataset(s) used (using the official text on each dataset's page) <strong>AND</strong> include the standard PhysioNet platform citation. Failure to cite open-source data properly may result in point deductions!
+</div>
 
 ---
 
@@ -86,7 +89,7 @@ Bring your favorite stack! You have complete freedom over your tech, but here is
   * `pydicom` (for DICOM images)
   * `nibabel` / `SimpleITK` (for NIfTI and medical image IO)
   * `MONAI` (Deep learning framework for medical imaging - optional but powerful)
-* **Hardware:** You are in charge of your own compute! Free cloud platforms like Google Colab or Kaggle Notebooks are perfect for initial prototyping. Deep learning on medical images (SPECT/Fundus) may benefit from GPU acceleration.
+* **Hardware & Environments:** You are in charge of your own compute! Free cloud platforms like Google Colab or Kaggle Notebooks are perfect for initial prototyping. Deep learning on medical images (SPECT/Fundus) may benefit from GPU acceleration. *Pro-tip: Use `requirements.txt` or `conda` environments to ensure your submitted code is easily reproducible!*
 
 ---
 
