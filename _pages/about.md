@@ -13,7 +13,7 @@ header:
 <div style="text-align: center; margin-bottom: 3em;">
   <h2 style="font-weight: bold;">Are you ready to hack the future of healthcare? 🏥✨</h2>
   <p style="font-size: 1.2em; line-height: 1.6;">
-    Welcome to the ultimate data showdown! Hosted by <strong>UPM (Malaysia)</strong>, in partnership with <strong>UNAIR (Indonesia)</strong> and <strong>UNMUL (Indonesia)</strong>, this fully online challenge is your chance to prove that math and code can truly change the world.
+    Welcome to the ultimate data showdown! Hosted by <strong>UPM (Malaysia)</strong>, in partnership with <strong>UNAIR (Indonesia)</strong>, <strong>UNMUL (Indonesia)</strong>, and <strong>Universitas Brawijaya (Indonesia)</strong>, this fully online challenge is your chance to prove that math and code can truly change the world.
   </p>
 </div>
 
@@ -42,12 +42,12 @@ header:
 </div>
 
 ### 🎯 The Vibe: Mathematics & Hope
-We believe math isn't just about numbers—it's about finding hope in the data. Your mission? **Mathematics for Hope in Healthcare**. You will tackle real-world clinical dilemmas using cutting-edge reinforcement learning, machine learning, and advanced statistical modeling.
+[cite_start]We believe math isn't just about numbers—it's about finding hope in the data[cite: 79]. Your mission? [cite_start]**Mathematics for Hope in Healthcare**[cite: 64]. [cite_start]You will tackle real-world clinical dilemmas using cutting-edge reinforcement learning, machine learning, and advanced statistical modeling[cite: 103].
 
 ### 💻 The Challenge: Save Lives with Code
 Step into the shoes of an AI clinician! 🩺
-* **The Data:** Dive into the official **[Health Gym collection](https://healthgym.ai)**.
-* **The Mission:** Develop algorithms that recommend the ultimate treatment sequences, dosages, and timings.
+* [cite_start]**The Data:** Dive into the official **[Health Gym collection](https://healthgym.ai)**[cite: 95].
+* [cite_start]**The Mission:** Develop algorithms that recommend the ultimate treatment sequences, dosages, and timings[cite: 106].
 
 <div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.2); border-left: 6px solid #00C9FF; padding: 25px; border-radius: 10px; margin: 30px 0;">
   <h3 style="margin-top: 0;">🏆 The Prize Pool (RM 1,000.00 Total!)</h3>
@@ -59,11 +59,11 @@ Step into the shoes of an AI clinician! 🩺
 </div>
 
 ### 🗓️ Roadmap to the Grand Final
-* **🏁 25 Feb:** Official Launch & Registration Opens
-* **⏳ 10 Mar:** Registration Deadline
-* **🎉 14 Mar:** Intl. Mathematics Day Celebration & Workshops
-* **📤 25 Mar:** Stage 1 Deadline
-* **🔥 11 Apr:** Stage 2 Grand Final & Closing Ceremony
+* [cite_start]**🏁 25 Feb:** Official Launch & Registration Opens [cite: 244]
+* [cite_start]**⏳ 10 Mar:** Registration Deadline [cite: 244]
+* **🎉 14 Mar:** Intl. [cite_start]Mathematics Day Celebration & Workshops [cite: 244]
+* [cite_start]**📤 25 Mar:** Stage 1 Deadline [cite: 244]
+* [cite_start]**🔥 11 Apr:** Stage 2 Grand Final & Closing Ceremony [cite: 244]
 
 <div style="text-align: center; margin: 50px 0;">
   <a href="https://forms.gle/MFqXpuuk9rT2yF9d6" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: white; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: bold; text-transform: uppercase;">
