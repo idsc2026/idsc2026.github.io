@@ -5,7 +5,7 @@ permalink: /sponsors/
 author_profile: false
 ---
 
-[cite_start]The **International Data Science Challenge (IDSC) 2026** is a strategic cross-border initiative[cite: 59, 76]. It is supported by Malaysia's professional societies in the mathematical and statistical sciences. [cite_start]This contribution is vital in our mission to use data science as a tool for hope in healthcare[cite: 80].
+The **International Data Science Challenge (IDSC) 2026** is strategically supported by Malaysia's leading professional societies in the mathematical and statistical sciences. Their contribution is vital in our mission to use data science as a tool for hope in healthcare.
 
 ### 💎 Strategic Partners & Sponsors
 
@@ -43,9 +43,9 @@ author_profile: false
 ---
 
 ### 📩 Interested in Partnering?
-[cite_start]We are actively seeking collaborators and sponsors to enhance regional analytical excellence[cite: 80]. [cite_start]If your organization is interested in supporting IDSC 2026[cite: 59, 75], please contact the organizing committee:
+We are actively seeking collaborators and sponsors to enhance regional analytical excellence. If your organization is interested in supporting IDSC 2026, please contact the organizing committee:
 
-* [cite_start]**Email:** [idsc2026.general@gmail.com](mailto:idsc2026.general@gmail.com) [cite: 325]
+* **Email:** [idsc2026.general@gmail.com](mailto:idsc2026.general@gmail.com)
 * **Website:** [idsc2026.com](https://idsc2026.com)
 
 ---
