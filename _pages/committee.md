@@ -5,12 +5,12 @@ permalink: /committee/
 author_profile: false
 ---
 
-The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration[cite: 76, 78]. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience! [cite: 1, 3]
+The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
 
 ### 🏛️ Organizing Institutions
-* **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)** [cite: 65, 66]
-* **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)** [cite: 67, 68]
-* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)** [cite: 69, 70]
+* **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)**
+* **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)**
+* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)**
 
 ---
 
@@ -35,7 +35,7 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ---
 
-### 🚀 Core Leadership 
+### 🚀 Core Leadership
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
   
@@ -78,10 +78,10 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ---
 
-### 💡 Student Organizing Taskforce 
-This event wouldn't be possible without our brilliant student volunteers managing the day-to-day operations! [cite: 1]
+### 💡 Student Organizing Taskforce
+This event wouldn't be possible without our brilliant student volunteers managing the day-to-day operations!
 
-#### 🛠️ Technical & Submission Team 
+#### 🛠️ Technical & Submission Team
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="/images/aleeya.png" alt="Aleeya" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #00C9FF;">
@@ -93,7 +93,7 @@ This event wouldn't be possible without our brilliant student volunteers managin
   </div>
 </div>
 
-#### 📂 Secretariat & Participant Management 
+#### 📂 Secretariat & Participant Management
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="/images/sametha.png" alt="Sametha" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
@@ -109,7 +109,7 @@ This event wouldn't be possible without our brilliant student volunteers managin
   </div>
 </div>
 
-#### 🎨 Publicity & Design 
+#### 🎨 Publicity & Design
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="/images/shahrul.png" alt="Shahrul" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
@@ -125,7 +125,7 @@ This event wouldn't be possible without our brilliant student volunteers managin
   </div>
 </div>
 
-#### 💰 Finance & Administration 
+#### 💰 Finance & Administration
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="/images/puviniyaraj.png" alt="Puviniyaraj" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FF6B6B;">
