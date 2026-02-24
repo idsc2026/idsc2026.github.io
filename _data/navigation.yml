@@ -12,5 +12,7 @@ main:
     url: /workshops/
   - title: "Committee"
     url: /committee/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "Registration"
     url: /registration/
