@@ -5,12 +5,12 @@ permalink: /committee/
 author_profile: false
 ---
 
-[cite_start]The **International Data Science Challenge (IDSC) 2026** is a strategic cross-border initiative aimed at bringing together students to apply mathematical concepts to healthcare[cite: 1, 19, 25]. [cite_start]Our dedicated organizing committee ensures a multilateral collaboration for regional analytical excellence[cite: 21, 23].
+The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
 
 ### 🏛️ Organizing Institutions
-* [cite_start]**Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)** [cite: 9]
-* [cite_start]**Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)** [cite: 11]
-* [cite_start]**Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)** [cite: 13]
+* **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)**
+* **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)**
+* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)**
 * **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Brawijaya (UB)**
 
 ---
@@ -24,7 +24,7 @@ author_profile: false
     <img src="/images/norihan.png" alt="Prof. Norihan" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FFB703; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Prof. Dr. Norihan Md Arifin</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d49a00;">Academic Advisor</p>
-    [cite_start]<p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p> [cite: 277]
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(255, 183, 3, 0.05); border: 1px solid rgba(255, 183, 3, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 183, 3, 0.05); text-align: center; border-top: 4px solid #FFB703;">
@@ -43,14 +43,14 @@ author_profile: false
     <img src="/images/izzun.png" alt="Dr. Izzun" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #009688; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Izzun Nasheef M. Hasmuri</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #00796b;">Healthcare Industry Advisor</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Director of Hospital Dalat, Malaysia</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Director of Hospital Dalat, Sarawak, Malaysia</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(0, 150, 136, 0.05); border: 1px solid rgba(0, 150, 136, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 150, 136, 0.05); text-align: center; border-top: 4px solid #009688;">
     <img src="/images/naim.png" alt="Dr. Naim" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #009688; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Naim Abdul Malek</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #00796b;">Healthcare Industry Advisor</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Deputy Director of Hospital Tengku Permaisuri Norashikin</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Deputy Director of Hospital Tengku Permaisuri Norashikin, Selangor, Malaysia</p>
   </div>
 
 </div>
@@ -65,7 +65,7 @@ author_profile: false
     <img src="/images/hakiim.png" alt="Dr. Hakiim" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Ahmad Hakiim Jamaluddin</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Program Director</p>
-    [cite_start]<p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p> [cite: 277]
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
@@ -86,14 +86,14 @@ author_profile: false
     <img src="/images/fariz.jpg" alt="Dr. Fariz" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FF6B6B; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Dr. M. Fariz Fadillah Mardianto, M.Si.</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d64545;">Co-Organizer Rep / Sr. Lecturer</p>
-    [cite_start]<p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Airlangga (UNAIR)</p> [cite: 11]
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Airlangga (UNAIR)</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(155, 93, 229, 0.05); text-align: center; border-top: 4px solid #9B5DE5;">
     <img src="/images/andrea.jpeg" alt="Mr. Andrea" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #9B5DE5; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.25em;">Mr. Andrea Tri Rian Dani</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #7b42b5;">Co-Organizer Rep / Asst. Professor</p>
-    [cite_start]<p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Mulawarman (UNMUL)</p> [cite: 13]
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Mulawarman (UNMUL)</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(46, 204, 113, 0.05); border: 1px solid rgba(46, 204, 113, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(46, 204, 113, 0.05); text-align: center; border-top: 4px solid #2ecc71;">
@@ -108,7 +108,7 @@ author_profile: false
 ---
 
 ### 💡 Student Organizing Taskforce
-This event is supported by brilliant student volunteers managing day-to-day operations:
+This event wouldn't be possible without our brilliant student volunteers managing the day-to-day operations!
 
 #### 🛠️ Technical & Submission Team
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
