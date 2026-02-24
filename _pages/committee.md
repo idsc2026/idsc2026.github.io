@@ -116,12 +116,12 @@ This event wouldn't be possible without our brilliant student volunteers managin
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Mohamad Shahrul Ikram</p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/thurgashini.jpg" alt="Thurgashini" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
-    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Thurgashini A/P Gunalan</p>
-  </div>
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="/images/edlina.jpg" alt="Edlina" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Nurul Edlina Binti Shazwan</p>
+  </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/thurgashini.jpg" alt="Thurgashini" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
+    <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Thurgashini A/P Gunalan</p>
   </div>
 </div>
 
