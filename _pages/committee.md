@@ -5,31 +5,50 @@ permalink: /committee/
 author_profile: false
 ---
 
-The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
+[cite_start]The **International Data Science Challenge (IDSC) 2026** is a strategic cross-border initiative[cite: 19]. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
 
 ### 🏛️ Organizing Institutions
-* **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)**
-* **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)**
-* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)**
+* [cite_start]**Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)** [cite: 9]
+* [cite_start]**Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)** [cite: 11]
+* [cite_start]**Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)** [cite: 13]
 * **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Brawijaya (UB)**
 
 ---
 
 ### 🎓 Advisory Board
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+
+#### 🏫 Academic Advisors
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
   
   <div style="flex: 1 1 300px; background: rgba(255, 183, 3, 0.05); border: 1px solid rgba(255, 183, 3, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 183, 3, 0.05); text-align: center; border-top: 4px solid #FFB703;">
     <img src="/images/norihan.png" alt="Prof. Norihan" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FFB703; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Prof. Dr. Norihan Md Arifin</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d49a00;">Event Advisor</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d49a00;">Academic Advisor</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(255, 183, 3, 0.05); border: 1px solid rgba(255, 183, 3, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 183, 3, 0.05); text-align: center; border-top: 4px solid #FFB703;">
     <img src="/images/leong.png" alt="Prof. Leong" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FFB703; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Prof. Dr. Leong Wah June</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d49a00;">Event Advisor</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d49a00;">Academic Advisor</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  </div>
+
+</div>
+
+#### 🏥 Healthcare Industry Advisors
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  
+  <div style="flex: 1 1 300px; background: rgba(0, 150, 136, 0.05); border: 1px solid rgba(0, 150, 136, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 150, 136, 0.05); text-align: center; border-top: 4px solid #009688;">
+    <img src="/images/izzun.png" alt="Dr. Izzun" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #009688; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Izzun Nasheef M. Hasmuri</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #00796b;">Healthcare Industry Advisor</p>
+  </div>
+
+  <div style="flex: 1 1 300px; background: rgba(0, 150, 136, 0.05); border: 1px solid rgba(0, 150, 136, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 150, 136, 0.05); text-align: center; border-top: 4px solid #009688;">
+    <img src="/images/naim.png" alt="Dr. Naim" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #009688; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Naim Abdul Malek</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #00796b;">Healthcare Industry Advisor</p>
   </div>
 
 </div>
