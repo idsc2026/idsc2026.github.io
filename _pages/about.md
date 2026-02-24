@@ -66,7 +66,7 @@ Step into the shoes of an AI clinician! 🩺
 * **🔥 11 Apr:** Stage 2 Grand Final & Closing Ceremony
 
 <div style="text-align: center; margin: 50px 0;">
-  <a href="YOUR_LINK_HERE" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: white; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: bold; text-transform: uppercase;">
+  <a href="https://forms.gle/MFqXpuuk9rT2yF9d6" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: white; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: bold; text-transform: uppercase;">
     🚀 Register Your Team Now
   </a>
 </div>
