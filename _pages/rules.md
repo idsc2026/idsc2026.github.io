@@ -3,7 +3,7 @@ layout: archive
 title: "Guidelines & Rules 📜"
 permalink: /rules/
 author_profile: false
----
+--- 
 
 The challenge happens 100% online across two epic stages. Read up on the mechanics, how you will be scored, and the ground rules to make sure your team is ready to dominate! 🚀
 
