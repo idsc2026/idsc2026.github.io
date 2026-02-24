@@ -113,11 +113,11 @@ This event wouldn't be possible without our brilliant student volunteers managin
 #### 🛠️ Technical & Submission Team
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/aleeya.png" alt="Aleeya" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #00C9FF;">
+    <img src="/images/aleeya.jpg" alt="Aleeya" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #00C9FF;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Aleeya Natasya Binti Azahar</p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/nuratika.png" alt="Nuratika" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #00C9FF;">
+    <img src="/images/nuratika.jpg" alt="Nuratika" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #00C9FF;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Nuratika Binti Anuar</p>
   </div>
 </div>
@@ -125,15 +125,15 @@ This event wouldn't be possible without our brilliant student volunteers managin
 #### 📂 Secretariat & Participant Management
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/sametha.png" alt="Sametha" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
+    <img src="/images/sametha.jpg" alt="Sametha" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Sametha Sivalingam</p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/ayuni.png" alt="Ayuni" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
+    <img src="/images/ayuni.jpg" alt="Ayuni" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Nurul Ayuni Binti Omar</p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/francis.png" alt="Francis" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
+    <img src="/images/francis.jpg" alt="Francis" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #92FE9D;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Francis Lim Beng Cong</p>
   </div>
 </div>
@@ -141,15 +141,15 @@ This event wouldn't be possible without our brilliant student volunteers managin
 #### 🎨 Publicity & Design
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/shahrul.png" alt="Shahrul" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
+    <img src="/images/shahrul.jpg" alt="Shahrul" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Mohamad Shahrul Ikram</p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/thurgashini.png" alt="Thurgashini" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
+    <img src="/images/thurgashini.jpg" alt="Thurgashini" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Thurgashini A/P Gunalan</p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/edlina.png" alt="Edlina" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
+    <img src="/images/edlina.jpg" alt="Edlina" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FFB703;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Nurul Edlina Binti Shazwan</p>
   </div>
 </div>
@@ -157,11 +157,11 @@ This event wouldn't be possible without our brilliant student volunteers managin
 #### 💰 Finance & Administration
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/puviniyaraj.png" alt="Puviniyaraj" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FF6B6B;">
+    <img src="/images/puviniyaraj.jpg" alt="Puviniyaraj" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FF6B6B;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Puviniyaraj A/P S.Rajendran</p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/huiyin.png" alt="Hui Yin" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FF6B6B;">
+    <img src="/images/huiyin.jpg" alt="Hui Yin" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #FF6B6B;">
     <p style="font-size: 0.9em; margin-top: 10px; font-weight: bold;">Cheah Hui Yin</p>
   </div>
 </div>
