@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
   overlay_filter: "rgba(43, 24, 84, 0.75)"
----
+--- 
 
 <img src="/images/idsc-poster.png" alt="IDSC 2026 Official Poster" style="width:100%; max-width:800px; display:block; margin: 0 auto 30px auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
 
