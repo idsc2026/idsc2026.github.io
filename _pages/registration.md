@@ -46,7 +46,7 @@ We are calling on brilliant minds from across the globe to step up and join the 
 
 <div style="text-align: center; margin: 40px 0;">
   <p style="font-size: 1.1em; margin-bottom: 20px;"><em>Click the button below to secure your team's spot in the challenge.</em></p>
-  <a href="YOUR_REGISTRATION_FORM_URL_HERE" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: #fff; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 20px rgba(0, 201, 255, 0.4); text-transform: uppercase; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
+  <a href="https://forms.gle/MFqXpuuk9rT2yF9d6" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: #fff; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 20px rgba(0, 201, 255, 0.4); text-transform: uppercase; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
     👉 Register Your Team Here
   </a>
 </div>
