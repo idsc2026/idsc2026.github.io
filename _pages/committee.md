@@ -91,7 +91,7 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
   <div style="flex: 1 1 300px; background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(155, 93, 229, 0.05); text-align: center; border-top: 4px solid #9B5DE5;">
     <img src="/images/andrea.jpeg" alt="Mr. Andrea" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #9B5DE5; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.25em;">Mr. Andrea Tri Rian Dani</h3>
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.25em;">Dr. (Cand) Andrea Tri Rian Dani</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #7b42b5;">Co-Organizer Rep / Asst. Professor</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Mulawarman (UNMUL)</p>
   </div>
