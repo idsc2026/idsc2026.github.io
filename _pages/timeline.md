@@ -62,7 +62,7 @@ This isn't just a schedule; it’s your mission log. From the first spark of an 
 <div style="background: rgba(255, 213, 79, 0.05); border: 1px solid rgba(255, 213, 79, 0.2); border-left: 6px solid #FFD54F; padding: 20px; border-radius: 10px; margin-bottom: 25px;">
   <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
     <li style="margin-bottom: 15px;">🔍 <strong>26 Mar – 01 Apr: Preliminary Judging</strong>
-      <br><span style="font-size: 0.9em; opacity: 0.8;">The joint UPM, UNAIR, and UNMUL panel hunts for innovation and clinical rigor.</span>
+      <br><span style="font-size: 0.9em; opacity: 0.8;">The joint UPM, UNAIR, UNMUL and UB panel hunts for innovation and clinical rigor.</span>
     </li>
     <li>📣 <strong>02 April 2026: Finalists Unveiled</strong>
       <br><span style="font-size: 0.9em; opacity: 0.8;">The Top 5 elite teams are announced! Finalists move on to the high-stakes live briefing.</span>
