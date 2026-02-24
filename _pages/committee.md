@@ -5,12 +5,13 @@ permalink: /committee/
 author_profile: false
 ---
 
-The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
+[cite_start]The **International Data Science Challenge (IDSC) 2026** is proudly brought to you by a cross-border multilateral collaboration[cite: 78]. Our dedicated organizing committee is working hard behind the scenes to ensure an incredible competition experience!
 
 ### 🏛️ Organizing Institutions
-* **Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)**
-* **Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)**
-* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)**
+* [cite_start]**Main Organizer:** Department of Mathematics and Statistics, Faculty of Science, **Universiti Putra Malaysia (UPM)** [cite: 66]
+* [cite_start]**Co-Organizer:** Department of Mathematics, Faculty of Science and Technology, **Universitas Airlangga (UNAIR)** [cite: 68]
+* [cite_start]**Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Mulawarman (UNMUL)** [cite: 69]
+* **Co-Organizer:** Department of Mathematics, Faculty of Mathematics and Natural Sciences, **Universitas Brawijaya (UB)**
 
 ---
 
@@ -72,6 +73,13 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
     <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.25em;">Mr. Andrea Tri Rian Dani</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #7b42b5;">Co-Organizer Rep / Asst. Professor</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Mulawarman (UNMUL)</p>
+  </div>
+
+  <div style="flex: 1 1 300px; background: rgba(46, 204, 113, 0.05); border: 1px solid rgba(46, 204, 113, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(46, 204, 113, 0.05); text-align: center; border-top: 4px solid #2ecc71;">
+    <img src="/images/syaiful.png" alt="Dr. Syaiful" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #2ecc71; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Assoc. Prof. Dr. Syaiful Anam, S.Si., MT.</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #27ae60;">Co-Organizer Rep / Assoc. Professor</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Brawijaya (UB)</p>
   </div>
 
 </div>
