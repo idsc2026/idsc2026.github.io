@@ -40,12 +40,41 @@ header:
 </div>
 
 ### 🎯 The Vibe: Mathematics & Hope
-We believe math isn't just about numbers—it's about finding hope in the data. Your mission? **Mathematics for Hope in Healthcare**. You will tackle real-world clinical dilemmas using cutting-edge reinforcement learning, machine learning, and advanced statistical modeling.
+We believe math isn't just about numbers—it's about finding hope in the data. Your mission? **Mathematics for Hope in Healthcare**. You will tackle real-world clinical dilemmas using cutting-edge machine learning, deep learning, and advanced statistical modeling.
 
 ### 💻 The Challenge: Save Lives with Code
-Step into the shoes of an AI clinician! 🩺
-* **The Data:** Dive into the official **[Health Gym collection](https://healthgym.ai)**.
-* **The Mission:** Develop algorithms that recommend the ultimate treatment sequences, dosages, and timings.
+Step into the shoes of an AI clinician! Healthcare impact often depends on timely recognition of risk patterns in physiological signals and medical imaging. However, biomedical data is noisy, heterogeneous, and sensitive to bias. You are challenged to build models that are not only accurate but transparent, reproducible, and clinically meaningful.
+
+**The Data Rules:** Teams must use **at least one** of the official datasets listed below, hosted on [PhysioNet](https://physionet.org/). *External labeled datasets are strictly prohibited.* All teams will compete in a single track, regardless of the dataset chosen.
+
+#### The Official Datasets:
+Choose your modality and define your modeling objective (e.g., classification, segmentation, signal decoding, or risk prediction):
+
+1. **[bigP3BCI](https://physionet.org/content/bigp3bci/1.0.0/) (P300-based Brain–Computer Interface)** 🧠
+   * **Modality:** EEG signals and event markers (EDF+ format).
+   * **Task:** P300 detection, BCI decoding, or cross-session generalization.
+   
+
+2. **[Brugada-HUCA](https://physionet.org/content/brugada-huca/1.0.0/) (12-Lead ECG for Brugada Syndrome)** ❤️
+   * **Modality:** 12-lead ECG recordings (WFDB format).
+   * **Task:** Classify Brugada syndrome vs. Normal controls. 
+   
+
+3. **[Myocardial Perfusion SPECT](https://physionet.org/content/myocardial-perfusion-spect/1.0.0/)** ☢️
+   * **Modality:** Cardiac nuclear imaging / Rest SPECT (DICOM + NIfTI masks).
+   * **Task:** Medical image analysis, segmentation of the left ventricular wall, or preprocessing/QA.
+   
+
+4. **[HYGD](https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/) (Hillel Yaffe Glaucoma Dataset)** 👁️
+   * **Modality:** Retinal fundus images (JPG + Labels.csv).
+   * **Task:** Glaucomatous optic neuropathy (GON) detection and quality-aware modeling.
+   
+
+**Your Deliverables:**
+* A validated method with proper train/validation/test splits.
+* Interpretable insights (e.g., saliency/heatmaps for images, feature importance for metadata).
+* A discussion on ethical considerations, limitations, and how your solution contributes to *"hope"* (e.g., earlier screening, reduced diagnostic burden).
+* Documented preprocessing for absolute reproducibility.
 
 <div style="background: rgba(0, 201, 255, 0.1); border: 1px solid rgba(0, 201, 255, 0.2); border-left: 6px solid #00C9FF; padding: 25px; border-radius: 10px; margin: 30px 0;">
   <h3 style="margin-top: 0;">🏆 The Prize Pool (RM 1,000.00 Total!)</h3>
