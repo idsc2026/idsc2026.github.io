@@ -31,10 +31,10 @@ The **International Data Science Challenge (IDSC) 2026** is strategically suppor
 
   <div style="flex: 1 1 300px; background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); border-top: 4px solid #9B5DE5; padding: 25px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(155, 93, 229, 0.05);">
     <div style="height: 120px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
-      <img src="/images/ismy.png" alt="ISMy" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      <img src="/images/ismy.png" alt="ISM" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
     <h4 style="margin: 0; font-size: 1.1em;">Institute of Statistics Malaysia</h4>
-    <p style="font-weight: bold; color: #9B5DE5; margin-top: 5px; font-size: 0.9em; text-transform: uppercase; letter-spacing: 1px;">ISMy</p>
+    <p style="font-weight: bold; color: #9B5DE5; margin-top: 5px; font-size: 0.9em; letter-spacing: 1px;">ISMy</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 10px;">The lead professional organization for statisticians, committed to excellence in statistical theory and practice.</p>
   </div>
 
