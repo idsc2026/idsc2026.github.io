@@ -5,7 +5,7 @@ permalink: /sponsors/
 author_profile: false
 ---
 
-The **International Data Science Challenge (IDSC) 2026** is strategically supported by Malaysia's leading professional societies in the mathematical and statistical sciences. Their contribution is vital in our mission to use data science as a tool for hope in healthcare.
+[cite_start]The **International Data Science Challenge (IDSC) 2026** is a strategic cross-border initiative[cite: 59, 76]. It is supported by Malaysia's professional societies in the mathematical and statistical sciences. [cite_start]This contribution is vital in our mission to use data science as a tool for hope in healthcare[cite: 80].
 
 ### 💎 Strategic Partners & Sponsors
 
@@ -31,7 +31,7 @@ The **International Data Science Challenge (IDSC) 2026** is strategically suppor
 
   <div style="flex: 1 1 300px; background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); border-top: 4px solid #9B5DE5; padding: 25px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(155, 93, 229, 0.05);">
     <div style="height: 120px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
-      <img src="/images/ismy.png" alt="ISM" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      <img src="/images/ismy.png" alt="ISMy" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
     <h4 style="margin: 0; font-size: 1.1em;">Institute of Statistics Malaysia</h4>
     <p style="font-weight: bold; color: #9B5DE5; margin-top: 5px; font-size: 0.9em; text-transform: uppercase; letter-spacing: 1px;">ISMy</p>
@@ -43,9 +43,9 @@ The **International Data Science Challenge (IDSC) 2026** is strategically suppor
 ---
 
 ### 📩 Interested in Partnering?
-We are actively seeking collaborators and sponsors to enhance regional analytical excellence. If your organization is interested in supporting IDSC 2026, please contact the organizing committee:
+[cite_start]We are actively seeking collaborators and sponsors to enhance regional analytical excellence[cite: 80]. [cite_start]If your organization is interested in supporting IDSC 2026[cite: 59, 75], please contact the organizing committee:
 
-* **Email:** [idsc2026.general@gmail.com](mailto:idsc2026.general@gmail.com)
+* [cite_start]**Email:** [idsc2026.general@gmail.com](mailto:idsc2026.general@gmail.com) [cite: 325]
 * **Website:** [idsc2026.com](https://idsc2026.com)
 
 ---
