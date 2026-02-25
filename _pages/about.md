@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
   overlay_filter: "rgba(43, 24, 84, 0.75)"
----
+--- 
 
 <div style="text-align: center; margin-bottom: 3em;">
   <h2 style="font-weight: bold;">Are you ready to hack the future of healthcare? 🏥✨</h2>
@@ -111,25 +111,45 @@ Choose your modality and define your modeling objective (e.g., classification, s
 </div>
 
 <script>
-window.addEventListener('DOMContentLoaded', (event) => {
-  // Added +08:00 to ensure the deadline aligns with Malaysia Time (MYT) globally
+function startCountdown() {
   const targetDate = new Date("2026-03-10T23:59:59+08:00").getTime();
-  const timer = setInterval(function() {
+  
+  function updateTimer() {
     const now = new Date().getTime();
     const diff = targetDate - now;
+    
     if (diff < 0) {
-      clearInterval(timer);
-      document.getElementById("idsc-countdown-container").innerHTML = "<h3>Registration Closed!</h3>";
-      return;
+      document.getElementById("idsc-countdown-container").innerHTML = "<h3 style='color: #ff4757;'>Registration Closed!</h3>";
+      return true;
     }
+    
     const d = Math.floor(diff / (1000 * 60 * 60 * 24));
     const h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     const m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
     const s = Math.floor((diff % (1000 * 60)) / 1000);
+    
     document.getElementById("days").innerText = d.toString().padStart(2, '0');
     document.getElementById("hours").innerText = h.toString().padStart(2, '0');
     document.getElementById("minutes").innerText = m.toString().padStart(2, '0');
     document.getElementById("seconds").innerText = s.toString().padStart(2, '0');
-  }, 1000);
-});
+    
+    return false;
+  }
+
+  const isClosed = updateTimer();
+  
+  if (!isClosed) {
+    const timerInterval = setInterval(function() {
+      if (updateTimer()) {
+        clearInterval(timerInterval);
+      }
+    }, 1000);
+  }
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', startCountdown);
+} else {
+  startCountdown();
+}
 </script>
