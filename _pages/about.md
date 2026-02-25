@@ -11,7 +11,7 @@ header:
 <div style="text-align: center; margin-bottom: 3em;">
   <h2 style="font-weight: bold;">Are you ready to hack the future of healthcare? 🏥✨</h2>
   <p style="font-size: 1.2em; line-height: 1.6;">
-    Welcome to the ultimate data showdown! Hosted by <strong>UPM (Malaysia)</strong>, in partnership with <strong>Universitas Airlangga (Indonesia)</strong>, <strong>Universitias Mulawarman (Indonesia)</strong>, and <strong>Universitas Brawijaya (Indonesia)</strong>, this fully online challenge is your chance to prove that math and code can truly change the world.
+    Welcome to the ultimate data showdown! Hosted by <strong>UPM (Malaysia)</strong>, in partnership with <strong>Universitas Airlangga (Indonesia)</strong>, <strong>Universitas Mulawarman (Indonesia)</strong>, and <strong>Universitas Brawijaya (Indonesia)</strong>, this fully online challenge is your chance to prove that math and code can truly change the world.
   </p>
 </div>
 
