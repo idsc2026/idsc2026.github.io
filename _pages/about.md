@@ -40,7 +40,7 @@ header:
 </div>
 
 ### 🎯 The Vibe: Mathematics & Hope
-We believe math isn't just about numbers—it's about finding hope in the data. Your mission? **Mathematics for Hope in Healthcare**. You will tackle real-world clinical dilemmas using cutting-edge machine learning, deep learning, and advanced statistical modeling.
+We believe math isn't just about numbers, it's about finding hope in the data. Your mission? **Mathematics for Hope in Healthcare**. You will tackle real-world clinical dilemmas using cutting-edge machine learning, deep learning, and advanced statistical modeling.
 
 ### 💻 The Challenge: Save Lives with Code
 Step into the shoes of an AI clinician! Healthcare impact often depends on timely recognition of risk patterns in physiological signals and medical imaging. However, biomedical data is noisy, heterogeneous, and sensitive to bias. You are challenged to build models that are not only accurate but transparent, reproducible, and clinically meaningful.
