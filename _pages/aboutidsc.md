@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About IDSC 2026"
-permalink: /about/
+permalink: /aboutidsc/
 author_profile: false
 header:
   overlay_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
