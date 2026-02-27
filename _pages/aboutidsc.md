@@ -8,11 +8,15 @@ header:
   overlay_filter: "rgba(13, 17, 23, 0.85)"
 ---
 
-<div style="text-align: center; margin-bottom: 3em;">
+<div style="text-align: center; margin-bottom: 2em;">
   <h2 style="font-weight: 900; font-size: 2.5em; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Uniting Data, Math, and Elite Regional Talent 🌏⚡</h2>
   <p style="font-size: 1.2em; line-height: 1.6; opacity: 0.9;">
     Welcome to the <strong>International Data Science Challenge 2026</strong>—a strategic cross-border initiative designed to celebrate International Mathematics Day (IDM). 
   </p>
+</div>
+
+<div style="text-align: center; margin: 0 0 4em 0;">
+  <img src="/images/idsc2026logo.png" alt="IDSC 2026 Official Logo" style="max-width: 300px; height: auto; filter: drop-shadow(0 8px 16px rgba(0, 201, 255, 0.3));">
 </div>
 
 ### 🌐 The Network: A Historic Collab
