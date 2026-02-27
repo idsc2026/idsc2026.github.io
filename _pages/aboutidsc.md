@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About International Data Science Challenge 2026"
+title: "About IDSC 2026"
 permalink: /about/
 author_profile: false
 header:
@@ -39,6 +39,6 @@ We aren't just here to crunch numbers; we are building a community of future inn
 * **Upskill:** Develop skills in data preprocessing, validation, benchmarking, and scientific communication for healthcare AI.
 
 <div style="background: #0d1117; border: 1px solid #3fb950; border-left: 6px solid #3fb950; padding: 25px; border-radius: 10px; margin-top: 40px; text-align: center; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; box-shadow: 0 8px 24px rgba(63, 185, 80, 0.15);">
-  <h3 style="color: #58a6ff; margin-top: 0;">> INITIALIZE_TEAM_SEQUENCE</h3>
+  <h3 style="color: #58a6ff; margin-top: 0;">&gt; INITIALIZE_TEAM_SEQUENCE</h3>
   <p style="margin-bottom: 0;">Ready to push to production? Review the <a href="/timeline/" style="color: #3fb950; font-weight: bold; text-decoration: underline;">Competition Timeline</a> or execute the <a href="/registration/" style="color: #3fb950; font-weight: bold; text-decoration: underline;">Registration Protocol</a> now!</p>
 </div>
