@@ -8,7 +8,7 @@ author_profile: false
 This isn't just a schedule; it’s your mission log. From the first spark of an idea to the high-stakes global stage, here is how you’ll navigate the **IDSC 2026** journey. Lock in these dates—no pressure, but the world is watching! 🌍✨
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="idcs2026timeline.png" alt="IDSC 2026 Timeline Poster" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="/images/idcs2026timeline.png" alt="IDSC 2026 Timeline Poster" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
 
 ---
