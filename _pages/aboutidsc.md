@@ -17,6 +17,9 @@ header:
 
 <div style="text-align: center; margin: 0 0 4em 0;">
   <img src="/images/idsc2026logo.png" alt="IDSC 2026 Official Logo" style="max-width: 300px; height: auto; filter: drop-shadow(0 8px 16px rgba(0, 201, 255, 0.3));">
+  <p style="font-family: 'Courier New', Courier, monospace; font-size: 0.85em; color: #00C9FF; margin-top: 15px; letter-spacing: 2px; opacity: 0.8;">
+    &gt; THE OFFICIAL LOGO OF IDSC 2026
+  </p>
 </div>
 
 ### 🌐 The Network: A Historic Collab
