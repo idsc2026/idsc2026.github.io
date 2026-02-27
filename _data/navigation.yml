@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "About IDSC"
+    url: /aboutidsc/
   - title: "Timeline"
     url: /timeline/
   - title: "Guidelines & Rules"
