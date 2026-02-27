@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "IDSC 2026"
 description              : &description "Official portal for the International Data Science Challenge (IDSC) 2026: Mathematics for Hope in Healthcare." 
 url                      : "https://idsc2026.github.io" # REPLACE YOURUSERNAME with your GitHub username
-                                                            
+                                                          
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "idsc2026/idsc2026.github.io" # REPLACE YOURUSERNAME with your GitHub username
 
@@ -22,7 +22,7 @@ repository               : "idsc2026/idsc2026.github.io" # REPLACE YOURUSERNAME 
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 author:
   # Event information (replaces biographic info)
-  avatar           : "profile.png" # You can replace profile.png in the /images/ folder with the event logo
+  avatar           : "idsc2026logo.png" # Upload your converted PNG to the /images/ folder!
   name             : "IDSC 2026"
   pronouns         : 
   bio              : "Mathematics for Hope in Healthcare."
