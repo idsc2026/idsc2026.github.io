@@ -23,7 +23,7 @@ header:
 
 <div id="idsc-countdown-container" style="margin: 40px 0; text-align: center; font-family: 'Courier New', Courier, monospace;">
   <p style="text-transform: uppercase; letter-spacing: 3px; font-weight: bold; margin-bottom: 15px; font-size: 1em; color: #FFD700;">
-    🏁 THE RACE TO THE TITLE ENDS IN:
+    🏁 REGISTRATION FOR THE RACE TO THE TITLE ENDS IN:
   </p>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <div style="background: rgba(255, 215, 0, 0.05); border: 1px solid rgba(255, 215, 0, 0.4); padding: 15px; border-radius: 12px; min-width: 90px;">
