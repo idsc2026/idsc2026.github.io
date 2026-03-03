@@ -20,7 +20,7 @@ header:
 
 <div style="text-align: center; margin-bottom: 3em;">
 
-  <h2 style="font-weight: 900; font-size: 2.5em; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Ready to Bring Home the IDSC 2026 Champion Title? 🏥⚡</h2>
+  <h2 style="font-weight: 900; font-size: 2.5em; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Ready to bring the Champion title home? 🏥⚡</h2>
 
   <p style="font-size: 1.2em; line-height: 1.6; opacity: 0.9;">
 
