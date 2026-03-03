@@ -43,13 +43,13 @@ header:
 Tackle clinical issues with ML, DL, and stats. Prove your skills to become champions and inspire hope.
 ### 💻 Challenge: Build Life-Saving Models
 Analyze signals and images for risks. Create accurate, transparent models using official datasets only—no external data.
-#### Datasets:
+### Datasets
 Choose one or more from [PhysioNet](https://physionet.org/):
 1. **[bigP3BCI](https://physionet.org/content/bigp3bci/1.0.0/) 🧠**: EEG (EDF+). Detect P300, decode BCI.
 2. **[Brugada-HUCA](https://physionet.org/content/brugada-huca/1.0.0/) ❤️**: ECG (WFDB). Classify Brugada vs. normal.
 3. **[Myocardial Perfusion SPECT](https://physionet.org/content/myocardial-perfusion-spect/1.0.0/) ☢️**: Imaging (DICOM/NIfTI). Segment LV, analyze images.
 4. **[HYGD](https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/) 👁️**: Fundus images (JPG/CSV). Detect GON.
-#### Deliverables:
+### Deliverables
 * 🛠️ Pipeline with train/val/test splits.
 * 🔍 Interpretable outputs (e.g., heatmaps, feature importance).
 * 🗣️ Discussion on ethics, limitations, and clinical hope.
