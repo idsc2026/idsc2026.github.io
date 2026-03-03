@@ -23,23 +23,23 @@ header:
 
 <div id="idsc-countdown-container" style="margin: 40px 0; text-align: center; font-family: 'Courier New', Courier, monospace;">
   <p style="text-transform: uppercase; letter-spacing: 3px; font-weight: bold; margin-bottom: 15px; font-size: 1em; color: #FFD700;">
-    🏁 REGISTRATION FOR THE RACE TO THE TITLE ENDS IN:
+    🏁 REGISTRATION ENDS IN:
   </p>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <div style="background: rgba(255, 215, 0, 0.05); border: 1px solid rgba(255, 215, 0, 0.4); padding: 15px; border-radius: 12px; min-width: 90px;">
-      <span id="days" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">--</span>
+      <span id="days" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">00</span>
       <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.8;">Days</span>
     </div>
     <div style="background: rgba(255, 215, 0, 0.05); border: 1px solid rgba(255, 215, 0, 0.4); padding: 15px; border-radius: 12px; min-width: 90px;">
-      <span id="hours" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">--</span>
+      <span id="hours" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">00</span>
       <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.8;">Hours</span>
     </div>
     <div style="background: rgba(255, 215, 0, 0.05); border: 1px solid rgba(255, 215, 0, 0.4); padding: 15px; border-radius: 12px; min-width: 90px;">
-      <span id="minutes" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">--</span>
+      <span id="minutes" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">00</span>
       <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.8;">Mins</span>
     </div>
     <div style="background: rgba(255, 215, 0, 0.05); border: 1px solid rgba(255, 215, 0, 0.4); padding: 15px; border-radius: 12px; min-width: 90px;">
-      <span id="seconds" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">--</span>
+      <span id="seconds" style="display: block; font-size: 2.5em; font-weight: 900; color: #FFD700;">00</span>
       <span style="font-size: 0.7em; text-transform: uppercase; font-weight: bold; opacity: 0.8;">Secs</span>
     </div>
   </div>
@@ -55,19 +55,18 @@ To win the 2026 Championship, you must master the messiness of real-world biomed
 
 **The Rules of Engagement:** Every champion must utilize official datasets from [PhysioNet](https://physionet.org/). Choose your battlefield:
 
-1.  **[bigP3BCI](https://physionet.org/content/bigp3bci/1.0.0/) (Neuro-Command)** 🧠: Decode the human brain.
-2.  **[Brugada-HUCA](https://physionet.org/content/brugada-huca/1.0.0/) (Cardiac Shield)** ❤️: Detect life-threatening heart rhythms.
-3.  **[Myocardial Perfusion SPECT](https://physionet.org/content/myocardial-perfusion-spect/1.0.0/) (Nuclear Sight)** ☢️: Segment the future of cardiac imaging.
-4.  **[HYGD](https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/) (Vision Guardian)** 👁️: Protect the world from blindness.
+1.  **[bigP3BCI](https://physionet.org/content/bigp3bci/1.0.0/) (Neuro-Command)** 🧠
+2.  **[Brugada-HUCA](https://physionet.org/content/brugada-huca/1.0.0/) (Cardiac Shield)** ❤️
+3.  **[Myocardial Perfusion SPECT](https://physionet.org/content/myocardial-perfusion-spect/1.0.0/) (Nuclear Sight)** ☢️
+4.  **[HYGD](https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/) (Vision Guardian)** 👁️
 
 ---
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   <div style="flex: 1; min-width: 300px; background: rgba(255, 215, 0, 0.1); border: 1px solid #FFD700; border-left: 10px solid #FFD700; padding: 25px; border-radius: 10px;">
     <h3 style="margin-top: 0; color: #FFD700; text-transform: uppercase;">🏆 THE CHAMPION'S PURSE</h3>
-    <p style="margin-top: 0; font-size: 1.1em; font-weight: bold; color: #fff;">Claim the 2026 Grand Title</p>
     <ul style="list-style-type: none; padding-left: 0; font-size: 1.2em; color: #fff;">
-      <li style="margin-bottom: 12px;">🥇 <strong>GRAND CHAMPION:</strong> RM 500.00 + Eternal Glory</li>
+      <li style="margin-bottom: 12px;">🥇 <strong>GRAND CHAMPION:</strong> RM 500.00</li>
       <li style="margin-bottom: 12px;">🥈 <strong>1st RUNNER UP:</strong> RM 300.00</li>
       <li style="margin-bottom: 12px;">🥉 <strong>2nd RUNNER UP:</strong> RM 150.00</li>
     </ul>
@@ -75,74 +74,69 @@ To win the 2026 Championship, you must master the messiness of real-world biomed
 
   <div style="flex: 1; min-width: 300px; background: rgba(0, 201, 255, 0.1); border: 1px solid #00C9FF; border-left: 10px solid #00C9FF; padding: 25px; border-radius: 10px;">
     <h3 style="margin-top: 0; color: #00C9FF; text-transform: uppercase;">🌟 ELITE BENEFITS</h3>
-    <p style="margin-top: 0; font-size: 0.9em; opacity: 0.8;">For those brave enough to enter</p>
     <ul style="list-style-type: none; padding-left: 0; font-size: 1.1em;">
-      <li style="margin-bottom: 8px;">📜 <strong>Global Credentials:</strong> Official E-Certificates for all contenders.</li>
-      <li style="margin-bottom: 8px;">💡 <strong>Masterclass Access:</strong> Exclusive workshops to sharpen your competitive edge.</li>
+      <li style="margin-bottom: 8px;">📜 <strong>E-Certificates:</strong> For all contenders.</li>
+      <li style="margin-bottom: 8px;">💡 <strong>Masterclass:</strong> Skill-building workshops.</li>
     </ul>
   </div>
 </div>
 
 ### 🗓️ The Road to Glory
-* **🏁 25 Feb:** System Online & Registration Opens
-* **⏳ 10 Mar:** **Registration Lockdown (Final Chance to Join)**
-* **🎉 14 Mar:** Intl. Mathematics Day & Championship Kickoff
-* **📤 25 Mar:** Submission Deadline (Code & Pitch Drop)
-* **🔥 11 Apr:** **THE GRAND FINAL & CROWNING OF THE CHAMPIONS**
+* **🏁 25 Feb:** Registration Opens
+* **⏳ 10 Mar:** **Registration Lockdown**
+* **🎉 14 Mar:** Intl. Mathematics Day Kickoff
+* **📤 25 Mar:** Submission Deadline
+* **🔥 11 Apr:** **THE GRAND FINAL**
 
 <div style="text-align: center; margin: 50px 0;">
-  <p style="font-weight: bold; margin-bottom: 20px; font-size: 1.2em;">Ready to put your country on the map?</p>
   <a href="https://forms.gle/MFqXpuuk9rT2yF9d6" style="display: inline-block; padding: 25px 60px; font-size: 1.6em; color: #0d1117; background: linear-gradient(90deg, #FFD700 0%, #FF8C00 100%); border-radius: 50px; text-decoration: none; font-weight: 900; text-transform: uppercase; box-shadow: 0 10px 20px rgba(255, 215, 0, 0.4); transition: transform 0.3s ease;">
     🚀 CLAIM YOUR SPOT NOW
   </a>
 </div>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Set the target date: Year, Month (0-indexed, so 2 is March), Day, Hour, Minute
-  const targetDate = new Date(2026, 2, 10, 23, 59, 59).getTime();
+(function() {
+  function startCountdown() {
+    // Set target date for March 10, 2026, 23:59:59 (GMT+8)
+    const targetDate = new Date("March 10, 2026 23:59:59 GMT+0800").getTime();
 
-  function updateTimer() {
-    const now = new Date().getTime();
-    const diff = targetDate - now;
-    const container = document.getElementById("idsc-countdown-container");
+    const updateTimer = () => {
+      const now = new Date().getTime();
+      const diff = targetDate - now;
 
-    if (diff <= 0) {
-      if (container) {
-        container.innerHTML = "<h3 style='color: #ff4757; font-family: monospace; border: 2px solid #ff4757; padding: 20px; border-radius: 12px;'>[ REGISTRATION OFFLINE - ARENA CLOSED ]</h3>";
+      if (diff <= 0) {
+        const container = document.getElementById("idsc-countdown-container");
+        if (container) {
+          container.innerHTML = "<h3 style='color: #ff4757; font-family: monospace; border: 2px solid #ff4757; padding: 20px; border-radius: 12px;'>[ REGISTRATION OFFLINE ]</h3>";
+        }
+        return;
       }
-      return true;
-    }
 
-    const d = Math.floor(diff / (1000 * 60 * 60 * 24));
-    const h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-    const s = Math.floor((diff % (1000 * 60)) / 1000);
+      const d = Math.floor(diff / (1000 * 60 * 60 * 24));
+      const h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      const s = Math.floor((diff % (1000 * 60)) / 1000);
 
-    // Update the UI if elements exist
-    const daysEl = document.getElementById("days");
-    const hoursEl = document.getElementById("hours");
-    const minsEl = document.getElementById("minutes");
-    const secsEl = document.getElementById("seconds");
+      const updateEl = (id, val) => {
+        const el = document.getElementById(id);
+        if (el) el.innerText = val.toString().padStart(2, '0');
+      };
 
-    if (daysEl) daysEl.innerText = d.toString().padStart(2, '0');
-    if (hoursEl) hoursEl.innerText = h.toString().padStart(2, '0');
-    if (minsEl) minsEl.innerText = m.toString().padStart(2, '0');
-    if (secsEl) secsEl.innerText = s.toString().padStart(2, '0');
+      updateEl("days", d);
+      updateEl("hours", h);
+      updateEl("minutes", m);
+      updateEl("seconds", s);
+    };
 
-    return false;
+    updateTimer();
+    setInterval(updateTimer, 1000);
   }
 
-  // Initial call
-  const isExpired = updateTimer();
-  
-  // Set interval if not expired
-  if (!isExpired) {
-    const timerInterval = setInterval(function() {
-      if (updateTimer()) {
-        clearInterval(timerInterval);
-      }
-    }, 1000);
+  // Execute immediately if DOM ready, otherwise wait
+  if (document.readyState === "complete" || document.readyState === "interactive") {
+    startCountdown();
+  } else {
+    document.addEventListener("DOMContentLoaded", startCountdown);
   }
-});
+})();
 </script>
