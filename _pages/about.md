@@ -54,7 +54,7 @@ Choose one or more from [PhysioNet](https://physionet.org/):
 * 🔍 Interpretable outputs (e.g., heatmaps, feature importance).
 * 🗣️ Discussion on ethics, limitations, and clinical hope.
 * 📦 Reproducible repo.
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 30px 0; align-items: stretch;">
   <div style="flex: 1; min-width: 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); border-left: 6px solid #00C9FF; padding: 25px; border-radius: 10px;">
     <h3 style="margin-top: 0; color: #00C9FF;">🏆 Prizes</h3>
     <p style="margin-top: 0; font-size: 0.9em; opacity: 0.8;">RM 1,000 Total</p>
@@ -74,11 +74,15 @@ Choose one or more from [PhysioNet](https://physionet.org/):
   </div>
 </div>
 ### 🗓️ Timeline
-* **25 Feb:** Registration opens
-* **10 Mar:** Registration closes
-* **14 Mar:** Workshops
-* **25 Mar:** Stage 1 submission
-* **11 Apr:** Finals & winners
+
+| Date   | Event               |
+|--------|---------------------|
+| 25 Feb | Registration opens  |
+| 10 Mar | Registration closes |
+| 14 Mar | Workshops           |
+| 25 Mar | Stage 1 submission  |
+| 11 Apr | Finals & winners    |
+
 <div style="text-align: center; margin: 50px 0;">
   <a href="https://forms.gle/MFqXpuuk9rT2yF9d6" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: #0d1117; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: 900; text-transform: uppercase; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.4); transition: transform 0.2s;">
     🚀 Register Now
