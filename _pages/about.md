@@ -98,5 +98,51 @@ To win the 2026 Championship, you must master the messiness of real-world biomed
 </div>
 
 <script>
-// (Countdown script remains same as provided in original)
+document.addEventListener('DOMContentLoaded', function() {
+  // Set the target date: Year, Month (0-indexed, so 2 is March), Day, Hour, Minute
+  const targetDate = new Date(2026, 2, 10, 23, 59, 59).getTime();
+
+  function updateTimer() {
+    const now = new Date().getTime();
+    const diff = targetDate - now;
+    const container = document.getElementById("idsc-countdown-container");
+
+    if (diff <= 0) {
+      if (container) {
+        container.innerHTML = "<h3 style='color: #ff4757; font-family: monospace; border: 2px solid #ff4757; padding: 20px; border-radius: 12px;'>[ REGISTRATION OFFLINE - ARENA CLOSED ]</h3>";
+      }
+      return true;
+    }
+
+    const d = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    const s = Math.floor((diff % (1000 * 60)) / 1000);
+
+    // Update the UI if elements exist
+    const daysEl = document.getElementById("days");
+    const hoursEl = document.getElementById("hours");
+    const minsEl = document.getElementById("minutes");
+    const secsEl = document.getElementById("seconds");
+
+    if (daysEl) daysEl.innerText = d.toString().padStart(2, '0');
+    if (hoursEl) hoursEl.innerText = h.toString().padStart(2, '0');
+    if (minsEl) minsEl.innerText = m.toString().padStart(2, '0');
+    if (secsEl) secsEl.innerText = s.toString().padStart(2, '0');
+
+    return false;
+  }
+
+  // Initial call
+  const isExpired = updateTimer();
+  
+  // Set interval if not expired
+  if (!isExpired) {
+    const timerInterval = setInterval(function() {
+      if (updateTimer()) {
+        clearInterval(timerInterval);
+      }
+    }, 1000);
+  }
+});
 </script>
