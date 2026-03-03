@@ -8,9 +8,9 @@ header:
   overlay_filter: "rgba(13, 17, 23, 0.85)"
 --- 
 <div style="text-align: center; margin-bottom: 3em;">
-  <h2 style="font-weight: 900; font-size: 2.5em; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Are You Ready to Conquer the Future of Healthcare and Claim the Crown? 🏆⚡</h2>
+  <h2 style="font-weight: 900; font-size: 2.5em; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Conquer Healthcare's Future – Claim the 2026 Crown! 🏆⚡</h2>
   <p style="font-size: 1.2em; line-height: 1.6; opacity: 0.9;">
-    Step into the arena of the ultimate global data showdown! Hosted by <strong>UPM (Malaysia)</strong> and allied with powerhouse partners <strong>UNAIR</strong>, <strong>UNMUL</strong>, and <strong>UB (Indonesia)</strong>, this fully online international challenge dares you to rise as champions. Harness math, data, and code to revolutionize the world—win the 2026 championship title, hoist the trophy high for your country, and etch your university's name in glory!
+    Enter the global data arena! Hosted by <strong>UPM (Malaysia)</strong> with partners <strong>UNAIR</strong>, <strong>UNMUL</strong>, and <strong>UB (Indonesia)</strong>. Use math, data, and code to win the championship, bring the trophy home, and make your university proud.
   </p>
 </div>
 <div style="text-align: center; margin: 0 0 40px 0;">
@@ -39,62 +39,49 @@ header:
     </div>
   </div>
 </div>
-### 🎯 The Epic Quest: Forge Math into a Weapon of Hope
-We know math is more than equations—it's the forge where hope is hammered into reality. Do you have what it takes to wield it? In **Mathematics for Hope in Healthcare**, you'll battle real clinical crises with elite machine learning, deep learning, and statistical prowess. Prove you're the best—claim victory for your nation and university!
-### 💻 The Ultimate Showdown: Code Your Way to Glory
-Become the AI heroes of healthcare! Spot hidden risks in signals and images faster than any human. But beware: biomedical data is a treacherous foe—messy, noisy, unforgiving. Your mission? Craft models that dominate with accuracy, transparency, and real-world impact. Outsmart the competition, win the title, and bring the trophy home!
-**The Battlefield Rules:** All warriors must arm themselves with **at least one** official dataset from [PhysioNet](https://physionet.org/). No outside reinforcements—external labeled datasets are forbidden. Fight fair, fight fierce!
-#### Choose Your Weapon (The Datasets):
-Select your domain and define your strike—classification, segmentation, decoding, or prediction—and crush the opposition:
-1. **[bigP3BCI](https://physionet.org/content/bigp3bci/1.0.0/) (P300-based Brain–Computer Interface)** 🧠
-   * **The Arsenal:** EEG signals and event markers (EDF+ format).
-   * **The Strike:** Master P300 detection, BCI decoding, or cross-session supremacy.
-   
-2. **[Brugada-HUCA](https://physionet.org/content/brugada-huca/1.0.0/) (12-Lead ECG for Brugada Syndrome)** ❤️
-   * **The Arsenal:** 12-lead ECG recordings (WFDB format).
-   * **The Strike:** Dominate classification of Brugada syndrome vs. normals.
-   
-3. **[Myocardial Perfusion SPECT](https://physionet.org/content/myocardial-perfusion-spect/1.0.0/)** ☢️
-   * **The Arsenal:** Cardiac nuclear imaging / Rest SPECT (DICOM + NIfTI masks).
-   * **The Strike:** Conquer medical image analysis, left ventricular segmentation, or preprocessing mastery.
-   
-4. **[HYGD](https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/) (Hillel Yaffe Glaucoma Dataset)** 👁️
-   * **The Arsenal:** Retinal fundus images (JPG + Labels.csv).
-   * **The Strike:** Triumph in glaucomatous optic neuropathy (GON) detection and quality-aware modeling.
-   
-**Your Victory Spoils (Deliverables):**
-* 🛠️ **The Arsenal:** A battle-tested pipeline with ironclad train/val/test splits.
-* 🔍 **The Recon:** Crystal-clear insights (saliency/heatmaps, feature importance).
-* 🗣️ **The Legacy:** A bold discourse on ethics, limits, and how your creation ignites *hope* in the medical frontlines.
-* 📦 **The Fortress:** Immaculate, reproducible preprocessing documentation.
+### 🎯 Mission: Math for Hope in Healthcare
+Tackle clinical issues with ML, DL, and stats. Prove your skills to become champions and inspire hope.
+### 💻 Challenge: Build Life-Saving Models
+Analyze signals and images for risks. Create accurate, transparent models using official datasets only—no external data.
+#### Datasets:
+Choose one or more from [PhysioNet](https://physionet.org/):
+1. **[bigP3BCI](https://physionet.org/content/bigp3bci/1.0.0/) 🧠**: EEG (EDF+). Detect P300, decode BCI.
+2. **[Brugada-HUCA](https://physionet.org/content/brugada-huca/1.0.0/) ❤️**: ECG (WFDB). Classify Brugada vs. normal.
+3. **[Myocardial Perfusion SPECT](https://physionet.org/content/myocardial-perfusion-spect/1.0.0/) ☢️**: Imaging (DICOM/NIfTI). Segment LV, analyze images.
+4. **[HYGD](https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/) 👁️**: Fundus images (JPG/CSV). Detect GON.
+#### Deliverables:
+* 🛠️ Pipeline with train/val/test splits.
+* 🔍 Interpretable outputs (e.g., heatmaps, feature importance).
+* 🗣️ Discussion on ethics, limitations, and clinical hope.
+* 📦 Reproducible repo.
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   <div style="flex: 1; min-width: 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); border-left: 6px solid #00C9FF; padding: 25px; border-radius: 10px;">
-    <h3 style="margin-top: 0; color: #00C9FF;">🏆 The Glory Awaits: Prize Pool</h3>
-    <p style="margin-top: 0; font-size: 0.9em; opacity: 0.8;">RM 1,000.00 Total Bounty!</p>
+    <h3 style="margin-top: 0; color: #00C9FF;">🏆 Prizes</h3>
+    <p style="margin-top: 0; font-size: 0.9em; opacity: 0.8;">RM 1,000 Total</p>
     <ul style="list-style-type: none; padding-left: 0; font-size: 1.1em;">
-      <li style="margin-bottom: 8px;">🥇 <strong>Supreme Champion:</strong> RM 500.00 – Bring the Trophy Home!</li>
-      <li style="margin-bottom: 8px;">🥈 <strong>1st Runner Up:</strong> RM 300.00</li>
-      <li style="margin-bottom: 8px;">🥉 <strong>2nd Runner Up:</strong> RM 150.00</li>
+      <li style="margin-bottom: 8px;">🥇 RM 500</li>
+      <li style="margin-bottom: 8px;">🥈 RM 300</li>
+      <li style="margin-bottom: 8px;">🥉 RM 150</li>
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px; background: rgba(146, 254, 157, 0.05); border: 1px solid rgba(146, 254, 157, 0.2); border-left: 6px solid #92FE9D; padding: 25px; border-radius: 10px;">
-    <h3 style="margin-top: 0; color: #92FE9D;">🌟 Warrior Rewards</h3>
-    <p style="margin-top: 0; font-size: 0.9em; opacity: 0.8;">For every enlisted team</p>
+    <h3 style="margin-top: 0; color: #92FE9D;">🌟 Perks</h3>
+    <p style="margin-top: 0; font-size: 0.9em; opacity: 0.8;">For all teams</p>
     <ul style="list-style-type: none; padding-left: 0; font-size: 1.1em;">
-      <li style="margin-bottom: 8px;">📜 <strong>E-Certificates:</strong> Badges of honor for your valor.</li>
-      <li style="margin-bottom: 8px;">💡 <strong>Elite Workshops (with E-Certificates):</strong> Sharpen your skills with master tacticians in data science and presentation.</li>
+      <li style="margin-bottom: 8px;">📜 E-Certificates</li>
+      <li style="margin-bottom: 8px;">💡 Workshops (with certs)</li>
     </ul>
   </div>
 </div>
-### 🗓️ Path to Immortality: The Timeline
-* **🏁 25 Feb:** Gates Open – Enlist Now!
-* **⏳ 10 Mar:** Final Call to Arms – Registration Closes
-* **🎉 14 Mar:** International Mathematics Day Rally & Training Sessions
-* **📤 25 Mar:** First Siege – Submit Code & Battle Pitch
-* **🔥 11 Apr:** Grand Clash – Champions Crowned!
+### 🗓️ Timeline
+* **25 Feb:** Registration opens
+* **10 Mar:** Registration closes
+* **14 Mar:** Workshops
+* **25 Mar:** Stage 1 submission
+* **11 Apr:** Finals & winners
 <div style="text-align: center; margin: 50px 0;">
   <a href="https://forms.gle/MFqXpuuk9rT2yF9d6" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: #0d1117; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: 900; text-transform: uppercase; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.4); transition: transform 0.2s;">
-    🚀 Enlist for Glory
+    🚀 Register Now
   </a>
 </div>
 <script>
