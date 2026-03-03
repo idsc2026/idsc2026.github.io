@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "International Data Science Challenge 2026"
+title: "International Data Science Challenge 2026 (IDSC2026)"
 permalink: /
 author_profile: false
 header:
