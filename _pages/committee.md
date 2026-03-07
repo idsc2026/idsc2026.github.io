@@ -15,7 +15,7 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ---
 
-### ✍️ A Message from the Organizing Chairs
+### ✍️ A Message from the Organizing Chair
 
 > "Welcome to the **International Data Science Challenge (IDSC) 2026**. 
 >
