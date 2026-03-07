@@ -220,7 +220,7 @@ Choose your modality and lock in your modeling objective (e.g., classification, 
 
 <div style="text-align: center; margin: 50px 0;">
 
-  <a href="https://forms.gle/MFqXpuuk9rT2yF9d6" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: #0d1117; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: 900; text-transform: uppercase; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.4); transition: transform 0.2s;">
+  <a href="https://forms.gle/mpG2VrTrvKBVfbKK9" style="display: inline-block; padding: 20px 50px; font-size: 1.5em; color: #0d1117; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: 900; text-transform: uppercase; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.4); transition: transform 0.2s;">
 
     🚀 Initialize Registration
 
