@@ -82,6 +82,34 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
+  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
+    <img src="/images/syahirah.png" alt="Dr. Syahirah" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Nur Syahirah Wahid</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Secretary 1</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  </div>
+
+  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
+    <img src="/images/aqilah.png" alt="Ms. Aqilah" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Ms. Nur Aqilah Mohd Noordin</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Secretary 2</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  </div>
+
+  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
+    <img src="/images/ezlin.png" alt="Dr. Ezlin" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Nur Ezlin Zamri</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Treasurer 1</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  </div>
+
+  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
+    <img src="/images/hani.png" alt="Dr. Hani" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Hani Syahida Zulkafli</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Treasurer 2</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  </div>
+
   <div style="flex: 1 1 300px; background: rgba(255, 107, 107, 0.05); border: 1px solid rgba(255, 107, 107, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.05); text-align: center; border-top: 4px solid #FF6B6B;">
     <img src="/images/fariz.jpg" alt="Dr. Fariz" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FF6B6B; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Dr. M. Fariz Fadillah Mardianto, M.Si.</h3>
