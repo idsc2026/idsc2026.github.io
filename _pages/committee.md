@@ -23,7 +23,7 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 >
 > We have assembled a world-class committee and advisory board to ensure that your journey from data exploration to insight delivery is as rewarding as it is challenging. To all participants: may your code be clean, your insights be sharp, and your passion for discovery be boundless. Let’s turn data into the next big breakthrough!"
 >
-> — **Dr. Ahmad Hakiim**
+> — **Dr. Hakiim**
 
 ---
 
