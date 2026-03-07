@@ -71,29 +71,29 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ### 🚀 Core Leadership
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px; margin-bottom: 40px;">
-  
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #00C9FF;">
-    <img src="/images/hakiim.png" alt="Dr. Hakiim" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px; margin-bottom: 20px;">
+  <div style="flex: 0 1 350px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #00C9FF; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05);">
+    <img src="/images/hakiim.png" alt="Dr. Hakiim" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; border: 4px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Ahmad Hakiim Jamaluddin</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Organizing Chair</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.9em; letter-spacing: 1px; color: #008eb3;">Organizing Chair</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
   </div>
+</div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px;">
   <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #00C9FF;">
-    <img src="/images/farid.png" alt="Dr. Farid" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/farid.png" alt="Dr. Farid" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px;">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Farid Zamani Che Rose</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Co-Organizing Chair</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #00C9FF;">
-    <img src="/images/shafie.png" alt="Dr. Shafie" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/shafie.png" alt="Dr. Shafie" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px;">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Mohd Shafie Mustafa</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Co-Organizing Chair</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
   </div>
-
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px;">
@@ -143,14 +143,14 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
   <div style="flex: 1 1 300px; background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #9B5DE5;">
     <img src="/images/andrea.jpeg" alt="Mr. Andrea" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #9B5DE5; margin-bottom: 15px;">
-    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Dr. (Cand) Andrea Tri Rian Dani, S.Stat, M.Stat</h3>
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Dr. (Cand) Andrea Tri Rian Dani</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; color: #7b42b5;">Co-Organizer Rep</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universitas Mulawarman (UNMUL)</p>
   </div>
 
   <div style="flex: 1 1 300px; background: rgba(46, 204, 113, 0.05); border: 1px solid rgba(46, 204, 113, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #2ecc71;">
     <img src="/images/syaiful.jpg" alt="Dr. Syaiful" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #2ecc71; margin-bottom: 15px;">
-    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Assoc. Prof. Dr. Syaiful Anam, S.Si., MT.</h3>
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Assoc. Prof. Dr. Syaiful Anam</h3>
     <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; color: #27ae60;">Co-Organizer Rep</p>
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universitas Brawijaya (UB)</p>
   </div>
