@@ -19,7 +19,7 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 > "Welcome to the **International Data Science Challenge (IDSC) 2026**. 
 >
-> In an era where data is the pulse of innovation—especially within the healthcare sector—our mission is to bridge the gap between complex algorithms and real-world impact. This competition isn't just about finding the best model; it’s about fostering a cross-border ecosystem where students from Malaysia, Indonesia, and beyond can collaborate, compete, and catalyze change. 
+> In an era where data is the pulse of innovation, especially within the healthcare sector, our mission is to bridge the gap between complex algorithms and real-world impact. This competition isn't just about finding the best model; it’s about fostering a cross-border ecosystem where students from Malaysia, Indonesia, and beyond can collaborate, compete, and catalyze change. 
 >
 > We have assembled a world-class committee and advisory board to ensure that your journey from data exploration to insight delivery is as rewarding as it is challenging. To all participants: may your code be clean, your insights be sharp, and your passion for discovery be boundless. Let’s turn data into the next big breakthrough!"
 >
