@@ -15,6 +15,18 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ---
 
+### ✍️ A Message from the Organizing Chairs
+
+> "Welcome to the **International Data Science Challenge (IDSC) 2026**. 
+>
+> In an era where data is the pulse of innovation—especially within the healthcare sector—our mission is to bridge the gap between complex algorithms and real-world impact. This competition isn't just about finding the best model; it’s about fostering a cross-border ecosystem where students from Malaysia, Indonesia, and beyond can collaborate, compete, and catalyze change. 
+>
+> We have assembled a world-class committee and advisory board to ensure that your journey from data exploration to insight delivery is as rewarding as it is challenging. To all participants: may your code be clean, your insights be sharp, and your passion for discovery be boundless. Let’s turn data into the next big breakthrough!"
+>
+> — **Dr. Ahmad Hakiim**
+
+---
+
 ### 🎓 Advisory Board
 
 #### 🏫 Academic Advisors
@@ -59,76 +71,88 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 
 ### 🚀 Core Leadership
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px; margin-bottom: 40px;">
   
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
+  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #00C9FF;">
     <img src="/images/hakiim.png" alt="Dr. Hakiim" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Ahmad Hakiim Jamaluddin</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Program Director</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Organizing Chair</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
+  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #00C9FF;">
     <img src="/images/farid.png" alt="Dr. Farid" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Farid Zamani Che Rose</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Program Co-Director 1</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Co-Organizing Chair</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
+  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #00C9FF;">
     <img src="/images/shafie.png" alt="Dr. Shafie" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Mohd Shafie Mustafa</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Program Co-Director 2</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Co-Organizing Chair</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
   </div>
 
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
-    <img src="/images/syahirah.png" alt="Dr. Syahirah" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Nur Syahirah Wahid</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Secretary 1</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px;">
+  
+  <div style="flex: 1 1 500px; display: flex; flex-wrap: wrap; gap: 15px; background: rgba(0, 201, 255, 0.03); padding: 25px; border-radius: 15px; border: 1px dashed rgba(0, 201, 255, 0.3); justify-content: center;">
+    <div style="width: 100%; text-align: center; margin-bottom: 15px;"><small style="text-transform: uppercase; letter-spacing: 2px; color: #008eb3; font-weight: bold;">Secretariat Executive Team</small></div>
+    
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/images/syahirah.png" alt="Dr. Syahirah" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 1.05em;">Dr. Nur Syahirah Wahid</h4>
+      <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Secretariat Lead</p>
+    </div>
+
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/images/aqilah.png" alt="Ms. Aqilah" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 1.05em;">Ms. Nur Aqilah Mohd Noordin</h4>
+      <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Secretariat Lead</p>
+    </div>
   </div>
 
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
-    <img src="/images/aqilah.png" alt="Ms. Aqilah" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; margin-bottom: 5px;">Ms. Nur Aqilah Mohd Noordin</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Secretary 2</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+  <div style="flex: 1 1 500px; display: flex; flex-wrap: wrap; gap: 15px; background: rgba(0, 201, 255, 0.03); padding: 25px; border-radius: 15px; border: 1px dashed rgba(0, 201, 255, 0.3); justify-content: center;">
+    <div style="width: 100%; text-align: center; margin-bottom: 15px;"><small style="text-transform: uppercase; letter-spacing: 2px; color: #008eb3; font-weight: bold;">Finance Executive Team</small></div>
+
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/images/ezlin.png" alt="Dr. Ezlin" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 1.05em;">Dr. Nur Ezlin Zamri</h4>
+      <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Finance Lead</p>
+    </div>
+
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/images/hani.png" alt="Dr. Hani" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 1.05em;">Dr. Hani Syahida Zulkafli</h4>
+      <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Finance Lead</p>
+    </div>
   </div>
 
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
-    <img src="/images/ezlin.png" alt="Dr. Ezlin" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Nur Ezlin Zamri</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Treasurer 1</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
-  </div>
+</div>
 
-  <div style="flex: 1 1 300px; background: rgba(0, 201, 255, 0.05); border: 1px solid rgba(0, 201, 255, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 201, 255, 0.05); text-align: center; border-top: 4px solid #00C9FF;">
-    <img src="/images/hani.png" alt="Dr. Hani" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; margin-bottom: 5px;">Dr. Hani Syahida Zulkafli</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #008eb3;">Treasurer 2</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
-  </div>
-
-  <div style="flex: 1 1 300px; background: rgba(255, 107, 107, 0.05); border: 1px solid rgba(255, 107, 107, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.05); text-align: center; border-top: 4px solid #FF6B6B;">
-    <img src="/images/fariz.jpg" alt="Dr. Fariz" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FF6B6B; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  
+  <div style="flex: 1 1 300px; background: rgba(255, 107, 107, 0.05); border: 1px solid rgba(255, 107, 107, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #FF6B6B;">
+    <img src="/images/fariz.jpg" alt="Dr. Fariz" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #FF6B6B; margin-bottom: 15px;">
     <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Dr. M. Fariz Fadillah Mardianto, M.Si.</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #d64545;">Co-Organizer Rep / Sr. Lecturer</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Airlangga (UNAIR)</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; color: #d64545;">Co-Organizer Rep</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universitas Airlangga (UNAIR)</p>
   </div>
 
-  <div style="flex: 1 1 300px; background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(155, 93, 229, 0.05); text-align: center; border-top: 4px solid #9B5DE5;">
-    <img src="/images/andrea.jpeg" alt="Mr. Andrea" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #9B5DE5; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.25em;">Dr. (Cand) Andrea Tri Rian Dani, S.Stat, M.Stat</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #7b42b5;">Co-Organizer Rep / Asst. Professor</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Mulawarman (UNMUL)</p>
+  <div style="flex: 1 1 300px; background: rgba(155, 93, 229, 0.05); border: 1px solid rgba(155, 93, 229, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #9B5DE5;">
+    <img src="/images/andrea.jpeg" alt="Mr. Andrea" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #9B5DE5; margin-bottom: 15px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Dr. (Cand) Andrea Tri Rian Dani, S.Stat, M.Stat</h3>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; color: #7b42b5;">Co-Organizer Rep</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universitas Mulawarman (UNMUL)</p>
   </div>
 
-  <div style="flex: 1 1 300px; background: rgba(46, 204, 113, 0.05); border: 1px solid rgba(46, 204, 113, 0.2); padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(46, 204, 113, 0.05); text-align: center; border-top: 4px solid #2ecc71;">
-    <img src="/images/syaiful.jpg" alt="Dr. Syaiful" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #2ecc71; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="flex: 1 1 300px; background: rgba(46, 204, 113, 0.05); border: 1px solid rgba(46, 204, 113, 0.2); padding: 25px; border-radius: 12px; text-align: center; border-top: 5px solid #2ecc71;">
+    <img src="/images/syaiful.jpg" alt="Dr. Syaiful" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #2ecc71; margin-bottom: 15px;">
     <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.15em;">Assoc. Prof. Dr. Syaiful Anam, S.Si., MT.</h3>
-    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; color: #27ae60;">Co-Organizer Rep / Assoc. Professor</p>
-    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universitas Brawijaya (UB)</p>
+    <p style="font-weight: bold; margin-bottom: 0; text-transform: uppercase; font-size: 0.85em; color: #27ae60;">Co-Organizer Rep</p>
+    <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px;">Universitas Brawijaya (UB)</p>
   </div>
 
 </div>
