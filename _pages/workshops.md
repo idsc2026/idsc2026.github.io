@@ -45,7 +45,7 @@ Whether you need to fine-tune your machine learning models or learn how to pitch
     <p style="font-size: 0.85em; opacity: 0.8; margin-top: 5px; text-align: center; font-weight: bold;">Universiti Putra Malaysia (UPM)</p>
     
     <div style="margin-top: 15px; font-size: 0.85em; line-height: 1.5; opacity: 0.9;">
-      <strong>Bio:</strong> Dr. Ghazila is a communication powerhouse at UPM, specializing in strategic public speaking. Her mission is to help you translate complex mathematical results into impactful, human-centered stories. Whether you're pitching to a board of directors or a panel of judges, she provides the tools to make your data resonate and stick.
+      <strong>Bio:</strong> Dr. Ghazila Ghazi is a Senior Lecturer at the Faculty of Modern Languages and Communication (FBMK), Universiti Putra Malaysia. She teaches presentation skills, public oration, and political and diplomatic communication. She graduated from the Universiti Teknologi MARA Law School before pursuing a Master’s in Communication and a PhD in Law Enforcement Communication. Her research focuses on communication strategies with law enforcement agencies in Malaysia, including collaborations with the Royal Malaysia Police on crime prevention through digital policing. She has also developed a crime prevention framework using the Volunteer Smartphone Patrol (VSP) application with the police. Currently, she is involved in research with the Malaysian Border Control Agency. Prior to academia, she worked as a broadcast journalist at TV3 (Malaysia), contributing to crime and documentary programs such as 999 and Majalah 3.
     </div>
   </div>
 
