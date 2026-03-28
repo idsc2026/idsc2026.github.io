@@ -23,7 +23,7 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
 >
 > We have assembled a world-class committee and advisory board to ensure that your journey from data exploration to insight delivery is as rewarding as it is challenging. To all participants: may your code be clean, your insights be sharp, and your passion for discovery be boundless. Let’s turn data into the next big breakthrough!"
 >
-> — **Hakiim**
+> — **Dr. Hakiim**
 
 ---
 
@@ -99,13 +99,13 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
       <img src="/images/syahirah.png" alt="Dr. Syahirah" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
       <h4 style="margin: 0; font-size: 1.05em;">Dr. Nur Syahirah Wahid</h4>
       <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Secretariat Lead</p>
-      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
     </div>
     <div style="flex: 1 1 200px; text-align: center;">
       <img src="/images/aqilah.png" alt="Ms. Aqilah" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
       <h4 style="margin: 0; font-size: 1.05em;">Ms. Nur Aqilah Mohd Noordin</h4>
       <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Secretariat Lead</p>
-      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
     </div>
   </div>
 
@@ -117,24 +117,24 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
       <img src="/images/ezlin.png" alt="Dr. Ezlin" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
       <h4 style="margin: 0; font-size: 1.05em;">Dr. Nur Ezlin Zamri</h4>
       <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Finance Lead</p>
-      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
     </div>
     <div style="flex: 1 1 200px; text-align: center;">
       <img src="/images/hani.png" alt="Dr. Hani" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
       <h4 style="margin: 0; font-size: 1.05em;">Dr. Hani Syahida Zulkafli</h4>
       <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Finance Lead</p>
-      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px; margin-bottom: 0;">Universiti Putra Malaysia (UPM)</p>
+      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
     </div>
   </div>
 
   <div style="flex: 1 1 500px; display: flex; flex-wrap: wrap; gap: 15px; background: rgba(0, 201, 255, 0.03); padding: 25px; border-radius: 15px; border: 1px dashed rgba(0, 201, 255, 0.3); justify-content: center;">
     <div style="width: 100%; text-align: center; margin-bottom: 15px;">
-      <small style="text-transform: uppercase; letter-spacing: 2px; color: #008eb3; font-weight: bold;">Jury Executive Team</small>
+      <small style="text-transform: uppercase; letter-spacing: 2px; color: #008eb3; font-weight: bold;">Judging Executive Team</small>
     </div>
     <div style="flex: 1 1 400px; text-align: center;">
       <img src="/images/aslam.png" alt="Dr. Aslam" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
       <h4 style="margin: 0; font-size: 1.05em;">Dr. Muhammad Aslam Mohd Safari</h4>
-      <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Head Jury</p>
+      <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Judging Lead</p>
       <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
     </div>
   </div>
