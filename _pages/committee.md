@@ -130,6 +130,17 @@ The **International Data Science Challenge (IDSC) 2026** is proudly brought to y
     </div>
   </div>
 
+  <div style="flex: 1 1 500px; display: flex; flex-wrap: wrap; gap: 15px; background: rgba(0, 201, 255, 0.03); padding: 25px; border-radius: 15px; border: 1px dashed rgba(0, 201, 255, 0.3); justify-content: center;">
+    <div style="width: 100%; text-align: center; margin-bottom: 15px;"><small style="text-transform: uppercase; letter-spacing: 2px; color: #008eb3; font-weight: bold;">Jury Executive Team</small></div>
+
+    <div style="flex: 1 1 400px; text-align: center;">
+      <img src="/images/aslam.png" alt="Dr. Aslam" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 3px solid #00C9FF; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 1.05em;">Dr. Muhammad Aslam Mohd Safari</h4>
+      <p style="font-size: 0.85em; font-weight: bold; color: #008eb3; margin: 0; text-transform: uppercase;">Head Jury</p>
+      <p style="font-size: 0.75em; opacity: 0.8; margin-top: 5px;">Universiti Putra Malaysia (UPM)</p>
+    </div>
+  </div>
+
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
