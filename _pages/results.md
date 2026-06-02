@@ -23,7 +23,7 @@ A massive congratulations to our finalists! These teams demonstrated exceptional
         <th style="padding: 15px;">Team Name</th>
         <th style="padding: 15px;">Members</th>
         <th style="padding: 15px;">Institution</th>
-        <th style="padding: 15px; border-top-right-radius: 10px;">Score</th>
+        <th style="padding: 15px; border-top-right-radius: 10px;">Score (out of 100)</th>
       </tr>
     </thead>
     <tbody>
@@ -32,70 +32,70 @@ A massive congratulations to our finalists! These teams demonstrated exceptional
         <td style="padding: 15px; font-weight: bold;">Bioinformers</td>
         <td style="padding: 15px;">Kumanan A/L N Govaichelvan, Wisely Koay Zhi Tang, Khoo Li Ying, Kavita A/P Chirara</td>
         <td style="padding: 15px;">Universiti Malaya</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">98.50</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">89.33</td>
       </tr>
       <tr style="background: rgba(192, 192, 192, 0.15); border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold; font-size: 1.1em;">🥈 2nd Place</td>
         <td style="padding: 15px; font-weight: bold;">GAMA-BCI</td>
         <td style="padding: 15px;">Farichaturrifqi Aryanitasari, Muhana Fawwazy Ilyas, Hamzah Arman Husni, Aulia Gita Pratiwi</td>
         <td style="padding: 15px;">Universitas Gadjah Mada</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">96.25</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">89.07</td>
       </tr>
       <tr style="background: rgba(205, 127, 50, 0.15); border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold; font-size: 1.1em;">🥉 3rd Place</td>
         <td style="padding: 15px; font-weight: bold;">MultiU</td>
         <td style="padding: 15px;">Saw Yong Quan, Tan Shan Qi, Hoe Zhi Wan, Hong Tze Loon</td>
         <td style="padding: 15px;">Universiti Malaya, Universiti Sains Malaysia, Universiti Putra Malaysia</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">94.80</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">88.67</td>
       </tr>
       <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold;">4th Place</td>
         <td style="padding: 15px; font-weight: bold;">BANG SADA</td>
         <td style="padding: 15px;">Nathanael Komang Bagus Prakarsa, Adinda Sekaring Wana, Bonfillo Renato Lawaziduhu Fau, Keenan Gadi Palwono</td>
         <td style="padding: 15px;">Universitas Brawijaya</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">92.10</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">88.00</td>
       </tr>
       <tr style="background: rgba(0,0,0,0.02); border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold;">5th Place</td>
         <td style="padding: 15px; font-weight: bold;">Ventriculearn-11</td>
         <td style="padding: 15px;">Ahmad Hathim bin Ahmad Azman, Anis Syauqina binti Mohd Zaffarin, Elvira Yunita, Siti Nor Amira binti Mohd Azli</td>
         <td style="padding: 15px;">Universiti Kebangsaan Malaysia, University of Bengkulu</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">90.50</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">86.67</td>
       </tr>
       <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold;">6th Place</td>
-        <td style="padding: 15px; font-weight: bold;">FD2</td>
-        <td style="padding: 15px;">Ahmad Naim bin Affandi, Muhammad Akmal bin Khairun Arifin, Ahmad Mukhlis bin Mohd Nordin, Muhammad Shahril Adan bin Khalid</td>
+        <td style="padding: 15px; font-weight: bold;">Team 108</td>
+        <td style="padding: 15px;">Lee Pei En, Ng Zhi Ying, Sim Yu Yin, Yah Tian Ling</td>
         <td style="padding: 15px;">Universiti Malaya</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">89.35</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">81.33</td>
       </tr>
       <tr style="background: rgba(0,0,0,0.02); border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold;">7th Place</td>
         <td style="padding: 15px; font-weight: bold;">abjrit</td>
         <td style="padding: 15px;">Ali Zainal Abidin, Najwa Fadhilah, Maulida Rahmi, Rafidah Khoirunnisa</td>
         <td style="padding: 15px;">Institut Teknologi Sepuluh Nopember</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">88.00</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">79.33</td>
       </tr>
       <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold;">8th Place</td>
-        <td style="padding: 15px; font-weight: bold;">VZ</td>
-        <td style="padding: 15px;">Izzar Sully Nashrudin, Risma Muslimah</td>
-        <td style="padding: 15px;">Maulana Malik Ibrahim Islamic State University Malang</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">86.40</td>
+        <td style="padding: 15px; font-weight: bold;">FD2</td>
+        <td style="padding: 15px;">Ahmad Naim bin Affandi, Muhammad Akmal bin Khairun Arifin, Ahmad Mukhlis bin Mohd Nordin, Muhammad Shahril Adan bin Khalid</td>
+        <td style="padding: 15px;">Universiti Malaya</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">76.00</td>
       </tr>
       <tr style="background: rgba(0,0,0,0.02); border-bottom: 1px solid rgba(0,0,0,0.05);">
         <td style="padding: 15px; font-weight: bold;">9th Place</td>
-        <td style="padding: 15px; font-weight: bold;">Team 108</td>
-        <td style="padding: 15px;">Lee Pei En, Ng Zhi Ying, Sim Yu Yin, Yah Tian Ling</td>
-        <td style="padding: 15px;">Universiti Malaya</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">85.95</td>
-      </tr>
-      <tr style="border-bottom: 2px solid #00C9FF;">
-        <td style="padding: 15px; font-weight: bold;">10th Place</td>
         <td style="padding: 15px; font-weight: bold;">GlaucoNet</td>
         <td style="padding: 15px;">Khairunnisa Maharani, Rahmah Gustriana Deka</td>
         <td style="padding: 15px;">Institut Teknologi Sumatera</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">84.50</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">76.00</td>
+      </tr>
+      <tr style="border-bottom: 2px solid #00C9FF;">
+        <td style="padding: 15px; font-weight: bold;">10th Place</td>
+        <td style="padding: 15px; font-weight: bold;">VZ</td>
+        <td style="padding: 15px;">Izzar Sully Nashrudin, Risma Muslimah</td>
+        <td style="padding: 15px;">Maulana Malik Ibrahim Islamic State University Malang</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">66.67</td>
       </tr>
     </tbody>
   </table>
@@ -122,3 +122,4 @@ We were blown away by the caliber of submissions during Stage 1. Whether you mad
   <h4 style="margin-bottom: 5px; margin-top: 0;">❓ Questions regarding the results?</h4>
   <p style="font-size: 0.9em; opacity: 0.8; margin-bottom: 0;">Reach out to the organizing committee at <a href="mailto:idsc2026.general@gmail.com" style="color: #00C9FF; font-weight: bold; text-decoration: none;">idsc2026.general@gmail.com</a>.</p>
 </div>
+
