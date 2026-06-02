@@ -33,7 +33,7 @@ A massive congratulations to our finalists! These teams demonstrated exceptional
         <td style="padding: 15px; font-weight: bold;">Bioinformers</td>
         <td style="padding: 15px;">Kumanan A/L N Govaichelvan, Wisely Koay Zhi Tang, Khoo Li Ying, Kavita A/P Chirara</td>
         <td style="padding: 15px;">Universiti Malaya</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">92.00</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">89.50</td>
       </tr>
       <!-- Rank 2 -->
       <tr style="background: rgba(192, 192, 192, 0.15); border-bottom: 1px solid rgba(0,0,0,0.05);">
