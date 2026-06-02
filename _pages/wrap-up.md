@@ -247,7 +247,7 @@ The true heart of the event, however, is reflected in the qualitative feedback c
 </div>
 
 #### 🏛️ Expert Judges Evaluation Feedbacks
-The Grand Final evaluation spreadsheet records match this incredible maturity, logging high praise from the domain leaders:
+The Grand Final evaluation matches this incredible maturity, logging high praise from the domain leaders:
 * **On Team 108:** *"The team clearly defined what success looks like in a screening context. Instead of just maximizing overall accuracy, they implemented a 'Threshold Innovation' strategy, explicitly defining their problem as creating a 'zero-miss' safety tool where False Negatives are clinically unacceptable... 100% recall on an independent test set with patient-level validation directly addresses the highest clinical safety concern."*
 * **On Team BANG SADA:** *"Their problem definition is exquisitely structured around the physiological reality that patients are the core unit of diagnosis, not individual images. The team brilliantly redefined the standard classification problem... Custom quality-weighted loss and threshold optimisation to minimise missed patients reflects genuine safety-first thinking."*
 * **On Team GlaucoNet:** *"Grad-CAM explicitly demonstrated with anatomically correct activation on the optic disc for positive cases, and appropriately diffuse activation for negatives. The team articulated XAI in clinically meaningful terms ('auditable, anatomically grounded AI')."*
