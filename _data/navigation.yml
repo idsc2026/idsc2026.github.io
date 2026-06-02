@@ -18,3 +18,5 @@ main:
 #    url: /sponsors/
   - title: "Registration"
     url: /registration/
+  - title: "Results"
+    url: /results/
