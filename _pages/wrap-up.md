@@ -205,7 +205,7 @@ Following absolute convergence of the matrix scores, the official distinctions a
 
 ### 🌍 The "Hope" Algorithm: Ground Truth Impact & Complete Feedbacks
 
-Based on empirical survey data compiled from the official file *IDSC 2026 Participant Feedback & Impact Survey (Responses).xlsx*, components yielded brilliant satisfaction data: **Overall Experience locked an average 4.42 / 5.00**, workshop helpfulness hit **4.46 / 5.00**, format organization hit **4.25 / 5.00**, and **96% of all respondents confirmed that the challenge directly escalated or solidified their path towards Healthcare AI**.
+Based on empirical survey data compiled from the official participant feedbacks, components yielded brilliant satisfaction data: **Overall Experience locked an average 4.42 / 5.00**, workshop helpfulness hit **4.46 / 5.00**, format organization hit **4.25 / 5.00**, and **96% of all respondents confirmed that the challenge directly escalated or solidified their path towards Healthcare AI**.
 
 #### 🎤 Hackers in Their Own Words (Survey Logs)
 The qualitative text logs reveal how the teams successfully bridged the gap between mathematical abstraction and clinical utility:
@@ -253,7 +253,7 @@ The qualitative text logs reveal how the teams successfully bridged the gap betw
 </div>
 
 #### 🏛️ Expert Judges Evaluation Feedbacks
-The validation logs in *IDSC2026_ Stage 2 Grand Final Stage Score (Responses) (3).xlsx* detail all of the explicit positive feedback logged by the Expert Judges during the live testing and technical deployment checks:
+The validation logs in the Final Stage Judge Feedback Form detail all of the explicit positive feedback logged by the Expert Judges during the live testing and technical deployment checks:
 *   **On Bioinformers (1st Place):** *"Delivers an exceptionally rigorous approach to Brain-Computer Interface (BCI) technology for ALS patients. The team successfully addressed a major clinical bottleneck: the need for daily BCI recalibration. Brilliant presentation, and the models are highly feasible for direct clinical usage. Tunable thresholds are present to modify sensitivity distributions seamlessly."*
 *   **On GAMA-BCI (2nd Place):** *"Presents a highly sophisticated, multimodal approach to ALS communication by fusing EEG and eye-tracking data. Their standout triumph is the design of an uncertainty-aware safety gate and their rigorous zero-shot evaluation on actual ALS patients, which beautifully bridges the gap between algorithmic accuracy and clinical trust. Includes excellent ERP biomarker mapping comparing target vs non-target response frequencies inline with reference distributions."*
 *   **On Ventriculearn-11 (5th Place):** *"The team excels in translating physiological realities into smart data science decisions, brilliantly targeted the exact metric primary care physicians care about. By achieving a 94.5\% NPV, the model safely cleared 69 healthy patients, successfully achieving their goal of providing safe 'discharge confidence' to front-liner Medical Officers. Lead-spatial attention layers independently mapped onto target electrophysiologist clinical regions flawlessly."*
