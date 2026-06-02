@@ -202,7 +202,7 @@ Following absolute convergence of the matrix scores, the official distinctions a
 
 Based on analytical records compiled post-event, components yielded brilliant satisfaction data: **Overall Experience locked an average 4.42 / 5.00**, workshop helpfulness hit **4.46 / 5.00**, and **96% of respondents confirmed that the challenge directly escalated or solidified their absolute career path towards Healthcare AI**.
 
-Beyond participant surveys, the evaluation panel records from **IDSC2026_ Stage 2 Grand Final Stage Score (Responses) (3).xlsx** demonstrate how deeply the **Expert Judges** were blown away by the clinical relevance, ethical responsibility, and technical maturity displayed by the teams. Here is what the domain experts recorded in their scorecards:
+Beyond participant surveys, the evaluation panel records during the Final Stage demonstrate how deeply the **Expert Judges** were blown away by the clinical relevance, ethical responsibility, and technical maturity displayed by the teams. Here is what the domain experts recorded in their scorecards:
 
 <div style="background: linear-gradient(90deg, rgba(255, 0, 122, 0.05) 0%, rgba(112, 0, 255, 0.05) 100%); border-left: 5px solid #FF007A; padding: 25px; border-radius: 8px; margin: 20px 0; font-size: 1.05em; font-style: italic;">
   "The team clearly defined what success looks like in a screening context. Instead of just maximizing overall accuracy, they implemented a 'Threshold Innovation' strategy, explicitly defining their problem as creating a 'zero-miss' safety tool where False Negatives are clinically unacceptable... 100% recall on an independent test set with patient-level validation directly addresses the highest clinical safety concern."<br>
