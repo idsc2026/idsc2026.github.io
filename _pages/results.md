@@ -23,7 +23,7 @@ A massive congratulations to our finalists! These teams demonstrated exceptional
         <th style="padding: 15px;">Team Name</th>
         <th style="padding: 15px;">Members</th>
         <th style="padding: 15px;">Institution</th>
-        <th style="padding: 15px; border-top-right-radius: 10px;">Score</th>
+        <th style="padding: 15px; border-top-right-radius: 10px;">Score (%)</th>
       </tr>
     </thead>
     <tbody>
