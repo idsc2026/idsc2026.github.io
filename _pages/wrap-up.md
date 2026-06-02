@@ -144,7 +144,7 @@ Finalists were grilled during live Q&A by 5 specialized domain experts:
 2.  **Assoc Prof Dr. Shukor Sanim (UiTM)** - Model Performance & Innovation
 3.  **Dr. Nasheef (Hospital Dalat)** - Healthcare Relevance
 4.  **Dr. Naim (Hospital Tengku Permaisuri Norashikin)** - Clinical Interpretability & Safety
-5.  **Dr. Ghazila (UPM)** - "Hope" Impact & Presentation
+5.  **Datin Dr. Ghazila (UPM)** - "Hope" Impact & Presentation
 
 ---
 
