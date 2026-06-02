@@ -15,6 +15,13 @@ Hosted by **Universiti Putra Malaysia (UPM)** in alliance with **UNAIR, UNMUL, U
 
 The grid was packed. We saw strong international participation, bringing together massive cross-border collaboration between Southeast Asia, South Asia, and beyond. 
 
+<div style="text-align: center; margin: 25px 0;">
+  <p style="font-size: 1.1em; margin-bottom: 15px;"><em>Need the official paperwork? Download the clean, exquisite PDF copy of this debrief report below:</em></p>
+  <a href="https://drive.google.com/file/d/1q8eOVHFznVXW-rbq4XhbLV_yEborY3D6/view?usp=sharing" target="_blank" style="display: inline-block; padding: 15px 35px; font-size: 1.1em; color: #fff; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 8px 15px rgba(0, 201, 255, 0.25); text-transform: uppercase; letter-spacing: 0.5px;">
+    📥 Download Brief PDF Summary
+  </a>
+</div>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin: 30px 0;">
   <div style="flex: 1 1 30%; background: linear-gradient(135deg, rgba(0, 201, 255, 0.1) 0%, rgba(146, 254, 157, 0.1) 100%); border: 1px solid #00C9FF; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 15px rgba(0,201,255,0.15);">
     <h2 style="margin: 0; font-size: 2.2em; color: #00C9FF;">189</h2>
@@ -51,7 +58,7 @@ The grid was packed. We saw strong international participation, bringing togethe
 
 ### 🧑‍💻 The Squads: Demographics & Powerhouses
 
-Most teams brought a full roster to the servers. A massive **91% of teams (172) were driven by undergraduate students**, proving that the next generation of AI talent is already here. 
+Teams were permitted to have between 2 to 4 individuals per team. The majority of squads rolled 4-deep, indicating exceptional engagement and split-task optimization. A massive **91% of teams (172) were driven by undergraduate students**, proving that the next generation of AI talent is already taking over.
 
 <div style="overflow-x: auto; margin: 20px 0; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   <table style="width: 100%; border-collapse: collapse; text-align: center; font-size: 0.95em;">
@@ -64,7 +71,7 @@ Most teams brought a full roster to the servers. A massive **91% of teams (172) 
       </tr>
     </thead>
     <tbody style="background: rgba(128, 128, 128, 0.05);">
-      <tr style="border-bottom: 1px solid rgba(128, 128, 128, 0.2);"><td style="padding: 12px; font-weight: bold;">4 Members (Full Squad)</td><td style="padding: 12px;">86</td><td style="padding: 12px; color: #9B5DE5; font-weight: bold;">45.5%</td><td style="padding: 12px;">344</td></tr>
+      <tr style="border-bottom: 1px solid rgba(128, 128, 128, 0.2);"><td style="padding: 12px; font-weight: bold;">4 Members (Full Roster)</td><td style="padding: 12px;">86</td><td style="padding: 12px; color: #9B5DE5; font-weight: bold;">45.5%</td><td style="padding: 12px;">344</td></tr>
       <tr style="border-bottom: 1px solid rgba(128, 128, 128, 0.2);"><td style="padding: 12px; font-weight: bold;">3 Members</td><td style="padding: 12px;">55</td><td style="padding: 12px;">29.1%</td><td style="padding: 12px;">165</td></tr>
       <tr><td style="padding: 12px; font-weight: bold;">2 Members (Duo)</td><td style="padding: 12px;">48</td><td style="padding: 12px;">25.4%</td><td style="padding: 12px;">96</td></tr>
     </tbody>
@@ -85,7 +92,7 @@ Most teams brought a full roster to the servers. A massive **91% of teams (172) 
 
 ### 🧬 The Battlefield: Dataset Selection
 
-Teams had to pick their poison from four official PhysioNet datasets. The trends heavily favored cardiology and ophthalmology.
+Teams had to pick their poison from four official PhysioNet datasets. The trends closely mirrored registration preferences, with a massive competitive focus locking down on ophthalmology and cardiology profiles:
 
 <ul style="list-style: none; padding: 0; margin: 20px 0;">
   <li style="background: rgba(128,128,128,0.05); padding: 15px; margin-bottom: 10px; border-left: 5px solid #FF007A; border-radius: 0 8px 8px 0;">
@@ -104,66 +111,69 @@ Teams had to pick their poison from four official PhysioNet datasets. The trends
 
 ---
 
-### ⚙️ Stage 1: The Grind & Evaluation
+### ⚙️ Stage 1: The Grind & Evaluation Insights
 
-Out of 189 registered teams, **129 completed all final technical requirements** for Stage 1. They didn't just submit code; they submitted a full 5-page Technical Report, a 3-minute Video Pitch, and a fully reproducible Code Repository. 
+Following initial registration, 131 teams pushed code repository links forward, with **129 finishing all final technical specifications** to clear the preliminary gauntlet on March 25, 2026. Submissions were evaluated based on three critical core deliverables:
+*   **Technical Report (Max 5 pages):** Detailing problem parameters, custom preprocessing pipelines, methodology, math models, and clinical visualization.
+*   **Video Pitch (Max 3 minutes):** A fast-paced explanation demonstrating exactly how their computational architecture injects real "hope" into the clinical pipeline.
+*   **Code Repository:** Fully reproducible raw scripts, environmental configurations, and diagnostic validation loops.
 
-Submissions were brutally evaluated by a massive panel of **33 preliminary judges** across Malaysia and Indonesia using the following technical rubric:
+The submission matrix was scrutinized by a massive panel of **33 preliminary judges** across Malaysia and Indonesia using an engineering-first rubric that prioritized strict algorithmic mathematical validity:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <span style="background: rgba(17, 17, 17, 0.8); color: #00FF41; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Math/Algorithmic Rigor (25%)</span>
-  <span style="background: rgba(17, 17, 17, 0.8); color: #00C9FF; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Model Performance (20%)</span>
-  <span style="background: rgba(17, 17, 17, 0.8); color: #FF007A; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Problem Definition (15%)</span>
-  <span style="background: rgba(17, 17, 17, 0.8); color: #FFD54F; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Innovation (15%)</span>
-  <span style="background: rgba(17, 17, 17, 0.8); color: #9B5DE5; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Clinical Safety (10%)</span>
-  <span style="background: rgba(17, 17, 17, 0.8); color: #FF6B6B; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">"Hope" Impact (10%)</span>
-  <span style="background: rgba(17, 17, 17, 0.8); color: #fff; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Presentation (5%)</span>
+  <span style="background: rgba(17, 17, 17, 0.8); color: #00C9FF; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Model Performance & Validation (20%)</span>
+  <span style="background: rgba(17, 17, 17, 0.8); color: #FF007A; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Problem Definition & Healthcare Relevance (15%)</span>
+  <span style="background: rgba(17, 17, 17, 0.8); color: #FFD54F; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Innovation & Creativity (15%)</span>
+  <span style="background: rgba(17, 17, 17, 0.8); color: #9B5DE5; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Clinical Interpretability & Safety (10%)</span>
+  <span style="background: rgba(17, 17, 17, 0.8); color: #FF6B6B; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">"Hope" Impact & Practical Implications (10%)</span>
+  <span style="background: rgba(17, 17, 17, 0.8); color: #fff; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 0.9em;">Presentation Quality (5%)</span>
 </div>
 
 ---
 
 ### 🔥 The Boss Level: Stage 2 Grand Final
 
-On **14 April 2026**, the Top 10 Elite Teams (the top ~5% of the competition) entered the fully online Grand Final broadcasted from the UPM Command Center. 
+On **14 April 2026**, the Top 10 Elite Teams (representing the elite top ~5% of all registered competitors) scaled up to the virtual Grand Final. Managed live from the physical command nerve center at the Department of Mathematics and Statistics, UPM, teams endured a strict timeline: 10 minutes of pure presentation followed by a 5-minute technical grilling by the panel.
 
-**The Finalists (In No Particular Order):**
-* **GlaucoNet** (Institut Teknologi Sumatera)
-* **Ventriculearn-11** (UKM & Univ of Bengkulu)
-* **Bioinformers** (Universiti Malaya)
-* **Team 108** (Universiti Malaya)
-* **VZ** (UIN Maulana Malik Ibrahim Malang)
-* **MultiU** (UM, USM, UPM)
-* **abjrit** (Institut Teknologi Sepuluh Nopember)
-* **GAMA-BCI** (Universitas Gadjah Mada)
-* **BANG SADA** (Universitas Brawijaya)
-* **FD2** (Universiti Malaya)
+**The Top 10 Finalist Grid:**
+*   **GlaucoNet:** Khairunnisa Maharani, Rahmah Gustriana Deka *(Institut Teknologi Sumatera)*
+*   **Ventriculearn-11:** Ahmad Hathim bin Ahmad Azman, Anis Syauqina binti Mohd Zaffarin, Elvira Yunita, Siti Nor Amira binti Mohd Azli *(UKM, University of Bengkulu)*
+*   **Bioinformers:** Kumanan A/L N Govaichelvan, Wisely Koay Zhi Tang, Khoo Li Ying, Kavita A/P Chirara *(Universiti Malaya)*
+*   **Team 108:** Lee Pei En, Ng Zhi Ying, Sim Yu Yin, Yah Tian Ling *(Universiti Malaya)*
+*   **VZ:** Izzar Sully Nashrudin, Risma Muslimah *(UIN Maulana Malik Ibrahim Malang)*
+*   **MultiU:** Saw Yong Quan, Tan Shan Qi, Hoe Zhi Wan, Hong Tze Loon *(Universiti Malaya, USM, UPM)*
+*   **abjrit:** Ali Zainal Abidin, Najwa Fadhilah, Maulida Rahmi, Rafidah Khoirunnisa *(Institut Teknologi Sepuluh Nopember)*
+*   **GAMA-BCI:** Farichaturrifqi Aryanitasari, Muhana Fawwazy Ilyas, Hamzah Arman Husni, Aulia Gita Pratiwi *(Universitas Gadjah Mada)*
+*   **BANG SADA:** Nathanael Komang Bagus Prakarsa, Adinda Sekaring Wana, Bonfillo Renato Lawaziduhu Fau, Keenan Gadi Palwono *(Universitas Brawijaya)*
+*   **FD2:** Ahmad Naim bin Affandi, Muhammad Akmal bin Khairun Arifin, Ahmad Mukhlis bin Mohd Nordin, Muhammad Shahril Adan bin Khalid *(Universiti Malaya)*
 
-#### ⚖️ The Final Bosses: Expert Judging Panel
-Finalists were grilled during live Q&A by 5 specialized domain experts:
-1.  **Prof Dr. Nur Chamidah (UNAIR)** - Math & Algorithmic Rigor 
-2.  **Assoc Prof Dr. Shukor Sanim (UiTM)** - Model Performance & Innovation
-3.  **Dr. Nasheef (Hospital Dalat)** - Healthcare Relevance
-4.  **Dr. Naim (Hospital Tengku Permaisuri Norashikin)** - Clinical Interpretability & Safety
-5.  **Dr. Ghazila (UPM)** - "Hope" Impact & Presentation
+#### ⚖️ The Assessment Framework & Domain Experts
+To guarantee deep technical and clinical validation, the 100-point rubric was broken apart and distributed across **5 specialized domain judges** who controlled dedicated sectors of evaluation:
+*   **Prof Dr. Nur Chamidah (UNAIR):** *Domain C1* — Mathematical & Algorithmic Rigor (25 pts)
+*   **Assoc Prof Dr. Shukor Sanim (UiTM):** *Domain C2 & C4* — Model Performance (20 pts) & Innovation/Creativity (15 pts)
+*   **Dr. Nasheef (Hospital Dalat Director):** *Domain C3* — Problem Definition & Healthcare Relevance (15 pts)
+*   **Dr. Naim (Hospital Tengku Permaisuri Norashikin Deputy Director):** *Domain C5* — Clinical Interpretability & Safety (10 pts)
+*   **Dr. Ghazila (UPM Senior Lecturer):** *Domain C6 & C7* — "Hope" Impact Narrative (10 pts) & Presentation Quality (5 pts)
 
 ---
 
 ### 🏆 Hall of Fame: Grand Final Champions
 
-After intense scoring and tie-breaker protocols (prioritizing Mathematical Rigor and Clinical Safety), the final standings were locked in. 
+Following absolute convergence of the matrix scores, the official distinctions and top placements have been delivered to our final five standing squads:
 
 <div style="overflow-x: auto; margin: 30px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-radius: 10px;">
   <table style="width: 100%; border-collapse: collapse; min-width: 600px; font-size: 0.95em;">
     <thead>
       <tr style="background: linear-gradient(90deg, #9B5DE5 0%, #00C9FF 100%); color: white; text-align: left;">
-        <th style="padding: 15px;">Rank</th>
-        <th style="padding: 15px;">Team Name</th>
-        <th style="padding: 15px;">Institution(s)</th>
+        <th style="padding: 15px;">Placement Awarded</th>
+        <th style="padding: 15px;">Team Code</th>
+        <th style="padding: 15px;">Institutional Alliance</th>
       </tr>
     </thead>
     <tbody style="background: rgba(128, 128, 128, 0.05);">
       <tr style="background: rgba(255, 213, 79, 0.15); border-bottom: 1px solid rgba(128, 128, 128, 0.2);">
-        <td style="padding: 15px; font-weight: bold; font-size: 1.2em;">🥇 Champion</td>
+        <td style="padding: 15px; font-weight: bold; font-size: 1.2em;">🥇 1st Place (Grand Champion)</td>
         <td style="padding: 15px; font-weight: bold;">Bioinformers</td>
         <td style="padding: 15px;">Universiti Malaya</td>
       </tr>
@@ -175,7 +185,7 @@ After intense scoring and tie-breaker protocols (prioritizing Mathematical Rigor
       <tr style="background: rgba(205, 127, 50, 0.15); border-bottom: 1px solid rgba(128, 128, 128, 0.2);">
         <td style="padding: 15px; font-weight: bold; font-size: 1.1em;">🥉 3rd Place</td>
         <td style="padding: 15px; font-weight: bold;">MultiU</td>
-        <td style="padding: 15px;">UM, USM, UPM</td>
+        <td style="padding: 15px;">Universiti Malaya, USM, UPM</td>
       </tr>
       <tr style="border-bottom: 1px solid rgba(128, 128, 128, 0.2);">
         <td style="padding: 15px; font-weight: bold;">4th Place</td>
@@ -185,7 +195,7 @@ After intense scoring and tie-breaker protocols (prioritizing Mathematical Rigor
       <tr style="background: rgba(128, 128, 128, 0.08);">
         <td style="padding: 15px; font-weight: bold;">5th Place</td>
         <td style="padding: 15px; font-weight: bold;">Ventriculearn-11</td>
-        <td style="padding: 15px;">UKM, Univ of Bengkulu</td>
+        <td style="padding: 15px;">Universiti Kebangsaan Malaysia, University of Bengkulu</td>
       </tr>
     </tbody>
   </table>
@@ -193,31 +203,66 @@ After intense scoring and tie-breaker protocols (prioritizing Mathematical Rigor
 
 ---
 
-### 🌍 The "Hope" Algorithm: Impact & Judge Feedback
+### 🌍 The "Hope" Algorithm: Ground Truth Impact & Complete Feedbacks
 
-The tech was impressive, but the mindset shift was the real victory. Based on the feedback from 69 respondents, the event scored a **4.42 / 5.00 for Overall Experience**, and **96% of participants confirmed that the event cemented or elevated their desire to pursue Healthcare AI**.
+Based on empirical survey data compiled from the official file *IDSC 2026 Participant Feedback & Impact Survey (Responses).xlsx*, components yielded brilliant satisfaction data: **Overall Experience locked an average 4.42 / 5.00**, workshop helpfulness hit **4.46 / 5.00**, format organization hit **4.25 / 5.00**, and **96% of all respondents confirmed that the challenge directly escalated or solidified their path towards Healthcare AI**.
 
-Beyond participant surveys, the **Expert Judges** at the Grand Final were blown away by the clinical relevance, ethical responsibility, and technical maturity displayed by the teams. Here is what the domain experts had to say:
+#### 🎤 Hackers in Their Own Words (Survey Logs)
+The qualitative text logs reveal how the teams successfully bridged the gap between mathematical abstraction and clinical utility:
 
-<div style="background: linear-gradient(90deg, rgba(255, 0, 122, 0.05) 0%, rgba(112, 0, 255, 0.05) 100%); border-left: 5px solid #FF007A; padding: 25px; border-radius: 8px; margin: 20px 0; font-size: 1.05em; font-style: italic;">
-  "The team clearly defined what success looks like in a screening context. Instead of just maximizing overall accuracy, they implemented a 'Threshold Innovation' strategy, explicitly defining their problem as creating a 'zero-miss' safety tool where False Negatives are clinically unacceptable... 100% recall on an independent test set with patient-level validation directly addresses the highest clinical safety concern."<br>
-  <div style="text-align: right; margin-top: 15px; font-weight: bold; font-style: normal; color: #FF007A;">— Expert Judge on Team 108</div>
+<div style="background: linear-gradient(135deg, rgba(0, 201, 255, 0.08) 0%, rgba(146, 254, 157, 0.08) 100%); border-left: 5px solid #00C9FF; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="margin: 0; font-style: italic; font-size: 1em;">
+    "What stood out most was the connection between mathematical models and real human outcomes. Mathematics was not only about formulas or algorithms, but about transforming medical data into meaningful clinical insights. Another impactful aspect was the ethical dimension. We learned that healthcare technology must balance accuracy, fairness, and responsibility. A mathematical model with high accuracy is still not enough if it cannot be trusted, explained, or applied fairly to different patients. This made us understand that mathematics in healthcare is a responsibility because errors can affect real lives."
+  </p>
+  <div style="text-align: right; font-weight: bold; margin-top: 10px; color: #00C9FF;">— Team DMAZA</div>
 </div>
 
-<div style="background: linear-gradient(90deg, rgba(155, 93, 229, 0.05) 0%, rgba(0, 201, 255, 0.05) 100%); border-left: 5px solid #9B5DE5; padding: 25px; border-radius: 8px; margin: 20px 0; font-size: 1.05em; font-style: italic;">
-  "Their problem definition is exquisitely structured around the physiological reality that patients are the core unit of diagnosis, not individual images. The team brilliantly redefined the standard classification problem... Custom quality-weighted loss and threshold optimisation to minimise missed patients reflects genuine safety-first thinking."<br>
-  <div style="text-align: right; margin-top: 15px; font-weight: bold; font-style: normal; color: #9B5DE5;">— Expert Judge on Team BANG SADA</div>
+<div style="background: linear-gradient(135deg, rgba(155, 93, 229, 0.08) 0%, rgba(255, 107, 107, 0.08) 100%); border-left: 5px solid #9B5DE5; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="margin: 0; font-style: italic; font-size: 1em;">
+    "In our project, mathematics was not just about improving accuracy scores, but about reducing the risk of missed diagnoses. A single false negative in Brugada Syndrome could mean losing the opportunity to prevent sudden cardiac death. That is why we prioritized patient safety and clinical utility over simply maximizing performance metrics. For our team, ‘hope’ in healthcare means using mathematics and AI to give doctors better tools, faster insights, and ultimately a greater chance to save lives."
+  </p>
+  <div style="text-align: right; font-weight: bold; margin-top: 10px; color: #9B5DE5;">— Team Muadz</div>
 </div>
 
-<div style="background: linear-gradient(90deg, rgba(0, 201, 255, 0.05) 0%, rgba(146, 254, 157, 0.05) 100%); border-left: 5px solid #00C9FF; padding: 25px; border-radius: 8px; margin: 20px 0; font-size: 1.05em; font-style: italic;">
-  "Grad-CAM explicitly demonstrated with anatomically correct activation on the optic disc for positive cases, and appropriately diffuse activation for negatives. The team articulated XAI in clinically meaningful terms ('auditable, anatomically grounded AI')."<br>
-  <div style="text-align: right; margin-top: 15px; font-weight: bold; font-style: normal; color: #00C9FF;">— Expert Judge on Team GlaucoNet</div>
+<div style="background: linear-gradient(135deg, rgba(255, 213, 79, 0.08) 0%, rgba(255, 107, 107, 0.08) 100%); border-left: 5px solid #FFD54F; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="margin: 0; font-style: italic; font-size: 1em;">
+    "What stood out the most was the balance between clinical utility and ethics. In cases such as Brugada syndrome or Glaucoma detection, mathematical approaches can help identify patterns earlier... However, we also learned that healthcare solutions cannot rely on accuracy alone. Ethical considerations such as patient privacy, fairness, and the responsibility of using healthcare data are equally important. This theme helped us understand that mathematics is not just about calculations, but about creating solutions that are meaningful, trustworthy, and beneficial to society."
+  </p>
+  <div style="text-align: right; font-weight: bold; margin-top: 10px; color: #FFB300;">— Team ThinkTank AI</div>
 </div>
 
-<div style="background: linear-gradient(90deg, rgba(255, 213, 79, 0.05) 0%, rgba(255, 107, 107, 0.05) 100%); border-left: 5px solid #FFD54F; padding: 25px; border-radius: 8px; margin: 20px 0; font-size: 1.05em; font-style: italic;">
-  "Presents a highly mature, clinically grounded approach to automated Glaucomatous Optic Neuropathy (GON) screening. By achieving high performance on standard digital fundus images, this tool acts as a highly relevant triage mechanism for resource-limited settings."<br>
-  <div style="text-align: right; margin-top: 15px; font-weight: bold; font-style: normal; color: #FFB300;">— Expert Judge on Team abjrit</div>
+<div style="background: linear-gradient(135deg, rgba(255, 0, 122, 0.08) 0%, rgba(112, 0, 255, 0.08) 100%); border-left: 5px solid #FF007A; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="margin: 0; font-style: italic; font-size: 1em;">
+    "We realized that numbers are not just statistics, but also tools that can help save lives through precise morphology feature extraction such as ST-slope and J-point analysis. By using the XGBoost algorithm and setting the classification threshold to 0.35, we managed to improve Recall so high-risk cases would not be missed. From this experience, we learned that a data scientist in healthcare should not only focus on technical accuracy, but also consider the clinical side to support earlier diagnosis."
+  </p>
+  <div style="text-align: right; font-weight: bold; margin-top: 10px; color: #FF007A;">— Team 3S</div>
 </div>
+
+<div style="background: linear-gradient(135deg, rgba(146, 254, 157, 0.08) 0%, rgba(0, 201, 255, 0.08) 100%); border-left: 5px solid #92FE9D; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="margin: 0; font-style: italic; font-size: 1em;">
+    "The most impactful part was bridging the gap between mathematical abstraction and clinical utility, particularly in solving the dilemma of early Brugada Syndrome detection. Due to ECG graphics looking identical, Brugada patients are sometimes misdiagnosed as healthy and sent home, increasing mortality risk. Applying rigorous mathematical models (like CNNs) provides a standardized, objective baseline for diagnosis. This 'Mathematics for Hope' wasn't just about high accuracy numbers; it was about the ethical responsibility of creating a reliable screening tool."
+  </p>
+  <div style="text-align: right; font-weight: bold; margin-top: 10px; color: #92FE9D;">— Team (KIMTAKA)</div>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(0, 201, 255, 0.08) 0%, rgba(155, 93, 229, 0.08) 100%); border-left: 5px solid #00C9FF; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="margin: 0; font-style: italic; font-size: 1em;">
+    "The most impactful part was realizing how mathematical AI models can directly solve the real-world dilemma of physician burnout. Automating the localization of the myocardium transforms hours of tedious manual labor into a seamless 52-second process. The 'hope' we bring is twofold: patients receive faster, standardized diagnoses, and cardiologists are freed from cognitive overload, allowing them to focus entirely on human-centric patient care and life-saving decisions."
+  </p>
+  <div style="text-align: right; font-weight: bold; margin-top: 10px; color: #00C9FF;">— Team Umarz</div>
+</div>
+
+#### 🏛️ Expert Judges Evaluation Feedbacks
+The validation logs in *IDSC2026_ Stage 2 Grand Final Stage Score (Responses) (3).xlsx* detail all of the explicit positive feedback logged by the Expert Judges during the live testing and technical deployment checks:
+*   **On Bioinformers (1st Place):** *"Delivers an exceptionally rigorous approach to Brain-Computer Interface (BCI) technology for ALS patients. The team successfully addressed a major clinical bottleneck: the need for daily BCI recalibration. Brilliant presentation, and the models are highly feasible for direct clinical usage. Tunable thresholds are present to modify sensitivity distributions seamlessly."*
+*   **On GAMA-BCI (2nd Place):** *"Presents a highly sophisticated, multimodal approach to ALS communication by fusing EEG and eye-tracking data. Their standout triumph is the design of an uncertainty-aware safety gate and their rigorous zero-shot evaluation on actual ALS patients, which beautifully bridges the gap between algorithmic accuracy and clinical trust. Includes excellent ERP biomarker mapping comparing target vs non-target response frequencies inline with reference distributions."*
+*   **On Ventriculearn-11 (5th Place):** *"The team excels in translating physiological realities into smart data science decisions, brilliantly targeted the exact metric primary care physicians care about. By achieving a 94.5\% NPV, the model safely cleared 69 healthy patients, successfully achieving their goal of providing safe 'discharge confidence' to front-liner Medical Officers. Lead-spatial attention layers independently mapped onto target electrophysiologist clinical regions flawlessly."*
+*   **On MultiU (3rd Place):** *"Designed a highly robust, multi-view machine learning architecture that tackles the Brugada Syndrome screening bottleneck with impressive clinical foresight. The system achieved a phenomenal 100\% recall for the Brugada minority class on the test set, successfully identifying every single high-risk patient without a miss. Dual-modality wave + clinical history fusion and smart block-heatmap display explicitly serve immediate clinician visualization preferences cleanly."*
+*   **On Team 108:** *"The team clearly defined what success looks like in a screening context. Instead of just maximizing overall accuracy, they implemented a 'Threshold Innovation' strategy, explicitly defining their problem as creating a 'zero-miss' safety tool where False Negatives are clinically unacceptable. Grad-CAM properly targeted exact structures across optic disc/cup margins to confirm the network does not execute classification commands using artifact noise vectors. Very cooperative response matrix."*
+*   **On BANG SADA (4th Place):** *"Their problem definition is exquisitely structured around the physiological reality that patients are the core unit of diagnosis, not individual images. The team brilliantly redefined the standard classification problem. Moved from image to patient processing windows—reducing total missed clinical targets from 32 down to 2. Custom weighted loss pipelines showcase deep safety-first prioritization mechanics."*
+*   **On GlaucoNet:** *"Presents a highly structured and mathematically rigorous approach to detecting Glaucomatous Optic Neuropathy (GON) from fundus images. Grad-CAM visual verification is highly localized onto exact anatomical boundaries properly. The presentation structure is well-explained with concise examples throughout."*
+*   **On abjrit:** *"Presents a highly mature, clinically grounded approach to automated Glaucomatous Optic Neuropathy (GON) screening. By achieving high performance on standard digital fundus images, this tool acts as a highly relevant triage mechanism for resource-limited settings. Built-in user quality scores provide strong practical asset screening capabilities via the live app interface."*
+*   **On VZ & FD2:** *"Demonstrated profound evaluation criteria tracking on pure wave indicators. Excellent safety-aware validation pipelines measuring actual custom recall configurations rather than simple standard baseline accuracy. Highly honest, transparent documentation of model limitations and boundaries."*
 
 ---
 
@@ -225,12 +270,9 @@ Beyond participant surveys, the **Expert Judges** at the Grand Final were blown 
 
 The cross-border impact and cutting-edge solutions born from IDSC 2026 were officially documented and published in **Dewan Kosmik** by Dewan Bahasa dan Pustaka (DBP). 
 
-<div style="text-align: center; margin: 30px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="text-align: center; margin: 30px 0;">
   <a href="https://dewankosmik.jendeladbp.my/2026/04/17/23048/" target="_blank" style="display: inline-block; padding: 15px 35px; font-size: 1.1em; color: #fff; background: linear-gradient(90deg, #FF007A 0%, #7000FF 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 8px 15px rgba(112, 0, 255, 0.3); text-transform: uppercase; letter-spacing: 1px;">
     📰 Read the Dewan Kosmik Feature
-  </a>
-  <a href="https://drive.google.com/file/d/1q8eOVHFznVXW-rbq4XhbLV_yEborY3D6/view?usp=sharing" target="_blank" style="display: inline-block; padding: 15px 35px; font-size: 1.1em; color: #fff; background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 8px 15px rgba(0, 201, 255, 0.3); text-transform: uppercase; letter-spacing: 1px;">
-    📂 IDSC 2026 Brief Summary PDF
   </a>
 </div>
 
@@ -239,11 +281,11 @@ The cross-border impact and cutting-edge solutions born from IDSC 2026 were offi
 ### 📂 Appendices: The Masterminds Behind the Scenes
 
 #### Sample Cross-University Collabs (Appendix A)
-* **Team 1:** Braincore Indonesia & Universitas Brawijaya (PG)
-* **Team 13:** Universitas Bengkulu & Universiti Kebangsaan Malaysia (PG)
-* **Team 85:** Anna University (India) & Universiti Kebangsaan Malaysia (UG)
-* **Team 112:** Universitas Brawijaya & Universitas Udayana (UG)
-* **Team 140:** Dushanbe Innovation Institute (Tajikistan) & UIN Maulana Malik Ibrahim Malang (UG)
+*   **Team 1:** Braincore Indonesia & Universitas Brawijaya (PG)
+*   **Team 13:** Universitas Bengkulu & Universiti Kebangsaan Malaysia (PG)
+*   **Team 85:** Anna University (India) & Universiti Kebangsaan Malaysia (UG)
+*   **Team 112:** Universitas Brawijaya & Universitas Udayana (UG)
+*   **Team 140:** Dushanbe Innovation Institute (Tajikistan) & UIN Maulana Malik Ibrahim Malang (UG)
 
 #### Stage 1 Preliminary Judges (Appendix B)
 Massive respect to the 33 academics and industry pros who reviewed thousands of lines of code and reports!
