@@ -16,90 +16,86 @@ Below are the final results of the competition.
 A massive congratulations to our finalists! These teams demonstrated exceptional skill, collaboration, and innovation in the final stage. 
 
 <div style="overflow-x: auto; margin: 30px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-radius: 10px;">
-  <table style="width: 100%; border-collapse: collapse; min-width: 600px; font-size: 0.95em;">
+  <table style="width: 100%; border-collapse: collapse; min-width: 800px; font-size: 0.95em;">
     <thead>
       <tr style="background: linear-gradient(90deg, #9B5DE5 0%, #00C9FF 100%); color: white; text-align: left;">
         <th style="padding: 15px; border-top-left-radius: 10px;">Rank</th>
         <th style="padding: 15px;">Team Name</th>
         <th style="padding: 15px;">Members</th>
-        <th style="padding: 15px;">University</th>
-        <th style="padding: 15px; border-top-right-radius: 10px;">Overall Score</th>
+        <th style="padding: 15px;">Institution</th>
+        <th style="padding: 15px; border-top-right-radius: 10px;">Score</th>
       </tr>
     </thead>
     <tbody>
-      <!-- Rank 1 -->
       <tr style="background: rgba(255, 213, 79, 0.15); border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold; font-size: 1.2em;">🥇 1st</td>
-        <td style="padding: 15px; font-weight: bold;">Data Dynamos</td>
-        <td style="padding: 15px;">Jane Doe, John Smith, Alex Lee</td>
-        <td style="padding: 15px;">Global Tech University</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">98.5 / 100</td>
+        <td style="padding: 15px; font-weight: bold; font-size: 1.2em;">🥇 1st Place</td>
+        <td style="padding: 15px; font-weight: bold;">Bioinformers</td>
+        <td style="padding: 15px;">Kumanan A/L N Govaichelvan, Wisely Koay Zhi Tang, Khoo Li Ying, Kavita A/P Chirara</td>
+        <td style="padding: 15px;">Universiti Malaya</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">98.50</td>
       </tr>
-      <!-- Rank 2 -->
       <tr style="background: rgba(192, 192, 192, 0.15); border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold; font-size: 1.1em;">🥈 2nd</td>
-        <td style="padding: 15px; font-weight: bold;">Neural Knights</td>
-        <td style="padding: 15px;">Sarah Chen, Mike Ross</td>
-        <td style="padding: 15px;">State College of Engineering</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">96.2 / 100</td>
+        <td style="padding: 15px; font-weight: bold; font-size: 1.1em;">🥈 2nd Place</td>
+        <td style="padding: 15px; font-weight: bold;">GAMA-BCI</td>
+        <td style="padding: 15px;">Farichaturrifqi Aryanitasari, Muhana Fawwazy Ilyas, Hamzah Arman Husni, Aulia Gita Pratiwi</td>
+        <td style="padding: 15px;">Universitas Gadjah Mada</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">96.25</td>
       </tr>
-      <!-- Rank 3 -->
       <tr style="background: rgba(205, 127, 50, 0.15); border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold; font-size: 1.1em;">🥉 3rd</td>
-        <td style="padding: 15px; font-weight: bold;">Health Hackers</td>
-        <td style="padding: 15px;">Emily White, David Kim, Lisa Ray, Tom Hardy</td>
-        <td style="padding: 15px;">University of Innovation</td>
-        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">94.8 / 100</td>
-      </tr>
-      <!-- Ranks 4-10 -->
-      <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold;">4th</td>
-        <td style="padding: 15px;">Visionaries</td>
-        <td style="padding: 15px;">Chris Evans, Mark Ruffalo</td>
-        <td style="padding: 15px;">Institute of Data Science</td>
-        <td style="padding: 15px;">91.5 / 100</td>
-      </tr>
-      <tr style="background: rgba(0,0,0,0.02); border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold;">5th</td>
-        <td style="padding: 15px;">Code Crafters</td>
-        <td style="padding: 15px;">Anna Bell, Simon Pegg, Nick Frost</td>
-        <td style="padding: 15px;">National Science Academy</td>
-        <td style="padding: 15px;">89.3 / 100</td>
+        <td style="padding: 15px; font-weight: bold; font-size: 1.1em;">🥉 3rd Place</td>
+        <td style="padding: 15px; font-weight: bold;">MultiU</td>
+        <td style="padding: 15px;">Saw Yong Quan, Tan Shan Qi, Hoe Zhi Wan, Hong Tze Loon</td>
+        <td style="padding: 15px;">Universiti Malaya, Universiti Sains Malaysia, Universiti Putra Malaysia</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">94.80</td>
       </tr>
       <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold;">6th</td>
-        <td style="padding: 15px;">Byte Busters</td>
-        <td style="padding: 15px;">Diana Prince, Clark Kent</td>
-        <td style="padding: 15px;">Metropolis University</td>
-        <td style="padding: 15px;">88.0 / 100</td>
+        <td style="padding: 15px; font-weight: bold;">4th Place</td>
+        <td style="padding: 15px; font-weight: bold;">BANG SADA</td>
+        <td style="padding: 15px;">Nathanael Komang Bagus Prakarsa, Adinda Sekaring Wana, Bonfillo Renato Lawaziduhu Fau, Keenan Gadi Palwono</td>
+        <td style="padding: 15px;">Universitas Brawijaya</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">92.10</td>
       </tr>
       <tr style="background: rgba(0,0,0,0.02); border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold;">7th</td>
-        <td style="padding: 15px;">The Algorhythms</td>
-        <td style="padding: 15px;">Barry Allen, Iris West</td>
-        <td style="padding: 15px;">Central City College</td>
-        <td style="padding: 15px;">87.4 / 100</td>
+        <td style="padding: 15px; font-weight: bold;">5th Place</td>
+        <td style="padding: 15px; font-weight: bold;">Ventriculearn-11</td>
+        <td style="padding: 15px;">Ahmad Hathim bin Ahmad Azman, Anis Syauqina binti Mohd Zaffarin, Elvira Yunita, Siti Nor Amira binti Mohd Azli</td>
+        <td style="padding: 15px;">Universiti Kebangsaan Malaysia, University of Bengkulu</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">90.50</td>
       </tr>
       <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold;">8th</td>
-        <td style="padding: 15px;">Quantum Queries</td>
-        <td style="padding: 15px;">Bruce Wayne, Lucius Fox</td>
-        <td style="padding: 15px;">Gotham Tech</td>
-        <td style="padding: 15px;">86.9 / 100</td>
+        <td style="padding: 15px; font-weight: bold;">6th Place</td>
+        <td style="padding: 15px; font-weight: bold;">FD2</td>
+        <td style="padding: 15px;">Ahmad Naim bin Affandi, Muhammad Akmal bin Khairun Arifin, Ahmad Mukhlis bin Mohd Nordin, Muhammad Shahril Adan bin Khalid</td>
+        <td style="padding: 15px;">Universiti Malaya</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">89.35</td>
       </tr>
       <tr style="background: rgba(0,0,0,0.02); border-bottom: 1px solid rgba(0,0,0,0.05);">
-        <td style="padding: 15px; font-weight: bold;">9th</td>
-        <td style="padding: 15px;">Matrix Miners</td>
-        <td style="padding: 15px;">Neo, Trinity, Morpheus</td>
-        <td style="padding: 15px;">Zion Polytechnic</td>
-        <td style="padding: 15px;">85.2 / 100</td>
+        <td style="padding: 15px; font-weight: bold;">7th Place</td>
+        <td style="padding: 15px; font-weight: bold;">abjrit</td>
+        <td style="padding: 15px;">Ali Zainal Abidin, Najwa Fadhilah, Maulida Rahmi, Rafidah Khoirunnisa</td>
+        <td style="padding: 15px;">Institut Teknologi Sepuluh Nopember</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">88.00</td>
+      </tr>
+      <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
+        <td style="padding: 15px; font-weight: bold;">8th Place</td>
+        <td style="padding: 15px; font-weight: bold;">VZ</td>
+        <td style="padding: 15px;">Izzar Sully Nashrudin, Risma Muslimah</td>
+        <td style="padding: 15px;">Maulana Malik Ibrahim Islamic State University Malang</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">86.40</td>
+      </tr>
+      <tr style="background: rgba(0,0,0,0.02); border-bottom: 1px solid rgba(0,0,0,0.05);">
+        <td style="padding: 15px; font-weight: bold;">9th Place</td>
+        <td style="padding: 15px; font-weight: bold;">Team 108</td>
+        <td style="padding: 15px;">Lee Pei En, Ng Zhi Ying, Sim Yu Yin, Yah Tian Ling</td>
+        <td style="padding: 15px;">Universiti Malaya</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">85.95</td>
       </tr>
       <tr style="border-bottom: 2px solid #00C9FF;">
-        <td style="padding: 15px; font-weight: bold;">10th</td>
-        <td style="padding: 15px;">Stat Squad</td>
-        <td style="padding: 15px;">Peter Parker, Ned Leeds</td>
-        <td style="padding: 15px;">Empire State University</td>
-        <td style="padding: 15px;">84.5 / 100</td>
+        <td style="padding: 15px; font-weight: bold;">10th Place</td>
+        <td style="padding: 15px; font-weight: bold;">GlaucoNet</td>
+        <td style="padding: 15px;">Khairunnisa Maharani, Rahmah Gustriana Deka</td>
+        <td style="padding: 15px;">Institut Teknologi Sumatera</td>
+        <td style="padding: 15px; font-weight: bold; color: #9B5DE5;">84.50</td>
       </tr>
     </tbody>
   </table>
@@ -117,7 +113,7 @@ We were blown away by the caliber of submissions during Stage 1. Whether you mad
 
 <div style="text-align: center; margin: 40px 0;">
   <p style="font-size: 1.1em; margin-bottom: 20px;"><em>Click below to view and download the complete Stage 1 leaderboard.</em></p>
-  <a href="https://drive.google.com/file/d/19uOt2h-Gif6NUNk9ON5nx27UNlDRih65/view?usp=sharing" style="display: inline-block; padding: 20px 50px; font-size: 1.3em; color: #fff; background: linear-gradient(90deg, #9B5DE5 0%, #00C9FF 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 20px rgba(155, 93, 229, 0.3); text-transform: uppercase; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
+  <a href="https://drive.google.com/file/d/19uOt2h-Gif6NUNk9ON5nx27UNlDRih65/view" target="_blank" style="display: inline-block; padding: 20px 50px; font-size: 1.3em; color: #fff; background: linear-gradient(90deg, #9B5DE5 0%, #00C9FF 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 20px rgba(155, 93, 229, 0.3); text-transform: uppercase; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
     📥 Download Stage 1 Rankings
   </a>
 </div>
