@@ -117,7 +117,7 @@ We were blown away by the caliber of submissions during Stage 1. Whether you mad
 
 <div style="text-align: center; margin: 40px 0;">
   <p style="font-size: 1.1em; margin-bottom: 20px;"><em>Click below to view and download the complete Stage 1 leaderboard.</em></p>
-  <a href="/path/to/your/stage1_results.pdf" style="display: inline-block; padding: 20px 50px; font-size: 1.3em; color: #fff; background: linear-gradient(90deg, #9B5DE5 0%, #00C9FF 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 20px rgba(155, 93, 229, 0.3); text-transform: uppercase; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
+  <a href="https://drive.google.com/file/d/19uOt2h-Gif6NUNk9ON5nx27UNlDRih65/view?usp=sharing" style="display: inline-block; padding: 20px 50px; font-size: 1.3em; color: #fff; background: linear-gradient(90deg, #9B5DE5 0%, #00C9FF 100%); border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 20px rgba(155, 93, 229, 0.3); text-transform: uppercase; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
     📥 Download Stage 1 Rankings
   </a>
 </div>
